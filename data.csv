@@ -1,0 +1,528 @@
+Season,Round,Race Name,Track Name,Driver Name,Team Name,Starting Grid Position,Qualifying Position,Qualifying Time,Driver Experience,Driver Avg Finish This Track,Team Avg Finish This Track,Team Reliability Rate,Driver Championship Position,Driver Points Season,Team Points Season,Engine Manufacturer,Chassis Upgrade Flag,Weather Forecast,Track Temperature,Air Temperature,Rain Probability,Wind Speed,Tire Strategy Estimate,Avg Top Speed,Historical Qual to Race Corr,Finish Position
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull Racing,1.0,1,1:29.179,170.0,1.5,1.8,0.95,1.0,26.0,26.0,Honda,1.0,Clear,30°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,1
+2024,2,Saudi Arabian GP,Jeddah Street Circuit,Max Verstappen,Red Bull Racing,1.0,1,1:27.472,171.0,1.8,2.0,0.95,1.0,51.0,51.0,Honda,1.0,Clear,28°C,24°C,0%,12 km/h,Soft-Medium,325 km/h,0.88,1
+2024,3,Australian GP,Albert Park Circuit,Max Verstappen,Red Bull Racing,1.0,1,1:15.915,172.0,2.0,2.2,0.94,1.0,51.0,51.0,Honda,1.0,Sunny,25°C,20°C,10%,8 km/h,Medium-Hard,315 km/h,0.86,DNF
+2024,4,Japanese GP,Suzuka Circuit,Max Verstappen,Red Bull Racing,1.0,1,1:28.197,173.0,1.2,1.5,0.96,1.0,77.0,77.0,Honda,1.0,Cloudy,22°C,18°C,20%,15 km/h,Soft-Medium,318 km/h,0.89,1
+2024,5,Chinese GP,Shanghai International Circuit,Max Verstappen,Red Bull Racing,1.0,1,1:33.660,174.0,1.7,2.0,0.95,1.0,102.0,102.0,Honda,1.0,Overcast,20°C,16°C,15%,10 km/h,Soft-Hard,310 km/h,0.87,1
+2024,6,Miami GP,Miami International Autodrome,Max Verstappen,Red Bull Racing,1.0,1,1:27.241,175.0,2.5,2.8,0.94,1.0,120.0,120.0,Honda,1.0,Sunny,32°C,26°C,5%,12 km/h,Medium-Hard,322 km/h,0.85,2
+2024,7,Emilia-Romagna GP,Imola Circuit,Max Verstappen,Red Bull Racing,1.0,1,1:14.746,176.0,1.3,1.6,0.95,1.0,145.0,145.0,Honda,1.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,1
+2024,8,Monaco GP,Circuit de Monaco,Max Verstappen,Red Bull Racing,6.0,6,1:10.567,177.0,3.0,3.2,0.93,1.0,153.0,153.0,Honda,1.0,Sunny,27°C,22°C,0%,7 km/h,Soft-Hard,290 km/h,0.8,6
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing,2.0,2,1:12.000,178.0,1.5,1.7,0.95,1.0,178.0,178.0,Honda,1.0,Rain,18°C,15°C,60%,10 km/h,Intermediate-Wet,305 km/h,0.84,1
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull Racing,2.0,2,1:11.403,179.0,1.8,2.0,0.94,1.0,203.0,203.0,Honda,1.0,Sunny,30°C,25°C,0%,10 km/h,Medium-Hard,315 km/h,0.86,1
+2024,11,Austrian GP,Red Bull Ring,Max Verstappen,Red Bull Racing,1.0,1,1:04.314,180.0,1.2,1.5,0.95,1.0,221.0,221.0,Honda,1.0,Clear,28°C,22°C,0%,8 km/h,Soft-Medium,320 km/h,0.88,5
+2024,12,British GP,Silverstone Circuit,Max Verstappen,Red Bull Racing,4.0,4,1:26.203,181.0,2.0,2.2,0.94,1.0,239.0,239.0,Honda,1.0,Cloudy,22°C,18°C,20%,12 km/h,Medium-Hard,318 km/h,0.85,2
+2024,13,Hungarian GP,Hungaroring,Max Verstappen,Red Bull Racing,3.0,3,1:15.273,182.0,2.5,2.8,0.93,1.0,249.0,249.0,Honda,1.0,Sunny,29°C,24°C,0%,9 km/h,Soft-Medium,310 km/h,0.84,5
+2024,14,Belgian GP,Circuit de Spa-Francorchamps,Max Verstappen,Red Bull Racing,11.0,1,1:53.159,183.0,1.5,1.7,0.94,1.0,261.0,261.0,Honda,1.0,Rain,20°C,17°C,70%,14 km/h,Intermediate-Wet,330 km/h,0.83,4
+2024,15,Dutch GP,Circuit Zandvoort,Max Verstappen,Red Bull Racing,2.0,2,1:10.029,184.0,1.2,1.5,0.95,1.0,279.0,279.0,Honda,1.0,Cloudy,25°C,20°C,10%,10 km/h,Soft-Medium,312 km/h,0.87,2
+2024,16,Italian GP,Monza Circuit,Max Verstappen,Red Bull Racing,7.0,7,1:20.022,185.0,2.0,2.2,0.93,1.0,287.0,,,,,,,,,,,,
+2024,5,Miami Grand Prix,Miami International Autodrome,Lando Norris,McLaren Racing,5.0,5,1:27.594,100.0,4.5,3.8,0.95,2.0,25.0,45.0,Mercedes,1.0,Sunny,32°C,26°C,0%,12 km/h,Soft-Medium,320 km/h,0.85,1
+2024,6,Emilia-Romagna GP,Imola Circuit,Lando Norris,McLaren Racing,2.0,3,1:14.837,101.0,5.0,4.2,0.95,2.0,43.0,85.0,Mercedes,1.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,2
+2024,7,Monaco Grand Prix,Circuit de Monaco,Lando Norris,McLaren Racing,4.0,4,1:10.542,102.0,6.0,5.0,0.94,2.0,55.0,110.0,Mercedes,1.0,Sunny,27°C,22°C,0%,7 km/h,Soft-Hard,290 km/h,0.8,4
+2024,8,Canadian GP,Circuit Gilles Villeneuve,Lando Norris,McLaren Racing,3.0,3,1:12.021,103.0,3.5,3.0,0.95,2.0,73.0,145.0,Mercedes,1.0,Rain,18°C,15°C,60%,10 km/h,Intermediate-Wet,305 km/h,0.84,2
+2024,9,Spanish GP,Circuit de Barcelona-Catalunya,Lando Norris,McLaren Racing,1.0,1,1:11.383,104.0,2.5,2.2,0.95,2.0,92.0,185.0,Mercedes,1.0,Sunny,30°C,25°C,0%,10 km/h,Medium-Hard,315 km/h,0.86,2
+2024,10,Austrian GP,Red Bull Ring,Lando Norris,McLaren Racing,2.0,2,1:04.718,105.0,3.0,2.5,0.94,2.0,98.0,195.0,Mercedes,1.0,Clear,28°C,22°C,0%,8 km/h,Soft-Medium,320 km/h,0.88,20
+2024,11,British GP,Silverstone Circuit,Lando Norris,McLaren Racing,3.0,3,1:26.030,106.0,4.0,3.5,0.95,2.0,113.0,225.0,Mercedes,1.0,Cloudy,22°C,18°C,20%,12 km/h,Medium-Hard,318 km/h,0.85,3
+2024,12,Hungarian GP,Hungaroring,Lando Norris,McLaren Racing,1.0,1,1:15.227,107.0,3.5,3.0,0.94,2.0,131.0,260.0,Mercedes,1.0,Sunny,29°C,24°C,0%,9 km/h,Soft-Medium,310 km/h,0.84,2
+2024,13,Belgian GP,Circuit de Spa-Francorchamps,Lando Norris,McLaren Racing,5.0,5,1:53.981,108.0,4.5,4.0,0.93,2.0,141.0,280.0,Mercedes,1.0,Rain,20°C,17°C,70%,14 km/h,Intermediate-Wet,330 km/h,0.83,5
+2024,14,Dutch GP,Circuit Zandvoort,Lando Norris,McLaren Racing,1.0,1,1:09.673,109.0,2.0,1.8,0.95,2.0,167.0,330.0,Mercedes,1.0,Cloudy,25°C,20°C,10%,10 km/h,Soft-Medium,312 km/h,0.87,1
+2024,15,Italian GP,Monza Circuit,Lando Norris,McLaren Racing,1.0,1,1:19.327,110.0,3.0,2.5,0.94,2.0,183.0,360.0,Mercedes,1.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.86,3
+2024,16,Azerbaijan GP,Baku City Circuit,Lando Norris,McLaren Racing,16.0,16,1:43.609,111.0,5.5,5.0,0.93,2.0,196.0,390.0,Mercedes,1.0,Sunny,28°C,23°C,0%,12 km/h,Soft-Medium,320 km/h,0.84,4
+2024,17,Singapore GP,Marina Bay Street Circuit,Lando Norris,McLaren Racing,1.0,1,1:29.525,112.0,2.5,2.0,0.95,2.0,221.0,440.0,Mercedes,1.0,Cloudy,30°C,27°C,20%,10 km/h,Soft-Medium,310 km/h,0.85,1
+2024,18,United States GP,Circuit of the Americas,Lando Norris,McLaren Racing,1.0,1,1:32.330,113.0,3.0,2.5,0.94,2.0,239.0,480.0,Mercedes,1.0,Sunny,31°C,26°C,0%,11 km/h,Medium-Hard,325 km/h,0.86,4
+2024,19,Mexican GP,Autódromo Hermanos Rodríguez,Lando Norris,McLaren Racing,3.0,3,1:16.260,114.0,3.5,3.0,0.94,2.0,257.0,520.0,Mercedes,1.0,Sunny,22°C,20°C,0%,9 km/h,Soft-Medium,310 km/h,0.85,2
+2024,20,São Paulo GP,Interlagos Circuit,Lando Norris,McLaren Racing,1.0,1,1:23.405,115.0,3.0,2.5,0.94,2.0,273.0,550.0,Mercedes,1.0,Cloudy,,,,,,,,
+2024,5,Miami Grand Prix,Miami International Autodrome,Oscar Piastri,McLaren Racing,6.0,6,1:27.675,50.0,13.0,12.5,0.95,4.0,237.0,500.0,Mercedes,1.0,Sunny,32°C,26°C,0%,12 km/h,Soft-Medium,320 km/h,0.85,13
+2024,6,Emilia-Romagna GP,Imola Circuit,Oscar Piastri,McLaren Racing,5.0,5,1:14.820,51.0,4.0,3.8,0.95,4.0,249.0,520.0,Mercedes,1.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,4
+2024,7,Monaco Grand Prix,Circuit de Monaco,Oscar Piastri,McLaren Racing,2.0,2,1:10.424,52.0,2.0,1.8,0.94,4.0,267.0,540.0,Mercedes,1.0,Sunny,27°C,22°C,0%,7 km/h,Soft-Hard,290 km/h,0.8,2
+2024,8,Canadian GP,Circuit Gilles Villeneuve,Oscar Piastri,McLaren Racing,4.0,4,1:12.103,53.0,5.0,4.5,0.95,4.0,277.0,560.0,Mercedes,1.0,Rain,18°C,15°C,60%,10 km/h,Intermediate-Wet,305 km/h,0.84,5
+2024,9,Spanish GP,Circuit de Barcelona-Catalunya,Oscar Piastri,McLaren Racing,9.0,10,1:12.011,54.0,7.0,6.5,0.95,4.0,283.0,580.0,Mercedes,1.0,Sunny,30°C,25°C,0%,10 km/h,Medium-Hard,315 km/h,0.86,7
+2024,10,Austrian GP,Red Bull Ring,Oscar Piastri,McLaren Racing,7.0,7,1:05.048,55.0,3.0,2.5,0.94,4.0,308.0,600.0,Mercedes,1.0,Clear,28°C,22°C,0%,8 km/h,Soft-Medium,320 km/h,0.88,2
+2024,11,British GP,Silverstone Circuit,Oscar Piastri,McLaren Racing,5.0,5,1:26.237,56.0,4.0,3.5,0.95,4.0,320.0,620.0,Mercedes,1.0,Cloudy,22°C,18°C,20%,12 km/h,Medium-Hard,318 km/h,0.85,4
+2024,12,Hungarian GP,Hungaroring,Oscar Piastri,McLaren Racing,2.0,2,1:15.249,57.0,1.0,1.0,0.94,4.0,345.0,640.0,Mercedes,1.0,Sunny,29°C,24°C,0%,9 km/h,Soft-Medium,310 km/h,0.84,1
+2024,13,Belgian GP,Circuit de Spa-Francorchamps,Oscar Piastri,McLaren Racing,6.0,6,1:54.027,58.0,2.0,1.8,0.93,4.0,363.0,660.0,Mercedes,1.0,Rain,20°C,17°C,70%,14 km/h,Intermediate-Wet,330 km/h,0.83,2
+2024,14,Dutch GP,Circuit Zandvoort,Oscar Piastri,McLaren Racing,3.0,3,1:10.172,59.0,4.0,3.5,0.95,4.0,375.0,680.0,Mercedes,1.0,Cloudy,25°C,20°C,10%,10 km/h,Soft-Medium,312 km/h,0.87,4
+2024,15,Italian GP,Monza Circuit,Oscar Piastri,McLaren Racing,2.0,2,1:19.436,60.0,2.0,1.8,0.94,4.0,393.0,700.0,Mercedes,1.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.86,2
+2024,16,Azerbaijan GP,Baku City Circuit,Oscar Piastri,McLaren Racing,2.0,2,1:41.686,61.0,1.0,1.0,0.93,4.0,418.0,720.0,Mercedes,1.0,Sunny,28°C,23°C,0%,12 km/h,Soft-Medium,320 km/h,0.84,1
+2024,17,Singapore GP,Marina Bay Street Circuit,Oscar Piastri,McLaren Racing,5.0,5,1:29.953,62.0,3.0,2.5,0.95,4.0,433.0,740.0,Mercedes,1.0,Cloudy,30°C,27°C,20%,10 km/h,Soft-Medium,310 km/h,0.85,3
+2024,18,United States GP,Circuit of the Americas,Oscar Piastri,McLaren Racing,5.0,5,1:32.950,63.0,5.0,4.5,0.94,4.0,443.0,760.0,Mercedes,1.0,Sunny,31°C,26°C,0%,11 km/h,Medium-Hard,325 km/h,0.86,5
+2024,19,Mexican GP,Autódromo Hermanos Rodríguez,Oscar Piastri,McLaren Racing,17.0,17,1:17.597,64.0,8.0,7.5,0.94,4.0,447.0,780.0,Mercedes,1.0,Sunny,22°C,20°C,0%,9 km/h,Soft-Medium,310 km/h,0.85,8
+2024,20,São Paulo GP,Interlagos Circuit,Oscar Piastri,McLaren Racing,8.0,8,1:24.686,65.0,7.0,6.5,0.94,4.0,,,,,,,,,,,,,
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Mercedes,3.0,3,1:29.485,100.0,5.0,4.5,0.95,5.0,18.0,30.0,Mercedes,1.0,Clear,30°C,25°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,4
+2024,2,Saudi Arabian GP,Jeddah Street Circuit,George Russell,Mercedes,7.0,7,1:28.316,101.0,6.0,5.5,0.95,5.0,28.0,50.0,Mercedes,1.0,Clear,28°C,24°C,0%,12 km/h,Soft-Medium,325 km/h,0.86,5
+2024,3,Australian GP,Melbourne Grand Prix Circuit,George Russell,Mercedes,7.0,7,1:16.724,102.0,4.0,3.5,0.95,5.0,38.0,70.0,Mercedes,1.0,Sunny,26°C,22°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,3
+2024,4,Japanese GP,Suzuka Circuit,George Russell,Mercedes,9.0,9,1:29.008,103.0,6.0,5.5,0.95,5.0,46.0,90.0,Mercedes,1.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,318 km/h,0.83,6
+2024,5,Chinese GP,Shanghai International Circuit,George Russell,Mercedes,8.0,8,1:34.433,104.0,5.0,4.5,0.95,5.0,54.0,110.0,Mercedes,1.0,Rain,18°C,15°C,60%,10 km/h,Intermediate-Wet,305 km/h,0.84,7
+2024,6,Miami GP,Miami International Autodrome,George Russell,Mercedes,7.0,7,1:28.067,105.0,4.0,3.5,0.95,5.0,62.0,130.0,Mercedes,1.0,Sunny,32°C,26°C,0%,12 km/h,Soft-Medium,320 km/h,0.85,3
+2024,7,Emilia-Romagna GP,Imola Circuit,George Russell,Mercedes,6.0,6,1:15.234,106.0,3.0,2.5,0.95,5.0,72.0,150.0,Mercedes,1.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,4
+2024,8,Monaco GP,Circuit de Monaco,George Russell,Mercedes,5.0,5,1:10.543,107.0,2.0,1.8,0.94,5.0,80.0,170.0,Mercedes,1.0,Sunny,27°C,22°C,0%,7 km/h,Soft-Hard,290 km/h,0.8,2
+2024,9,Canadian GP,Circuit Gilles Villeneuve,George Russell,Mercedes,1.0,1,1:12.000,108.0,5.0,4.5,0.95,5.0,90.0,190.0,Mercedes,1.0,Rain,18°C,15°C,60%,10 km/h,Intermediate-Wet,305 km/h,0.84,1
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,George Russell,Mercedes,4.0,4,1:11.703,109.0,7.0,6.5,0.95,5.0,100.0,210.0,Mercedes,1.0,Sunny,30°C,25°C,0%,10 km/h,Medium-Hard,315 km/h,0.86,5
+2024,11,Austrian GP,Red Bull Ring,George Russell,Mercedes,3.0,3,1:04.840,110.0,3.0,2.5,0.94,5.0,110.0,230.0,Mercedes,1.0,Clear,28°C,22°C,0%,8 km/h,Soft-Medium,320 km/h,0.88,2
+2024,12,British GP,Silverstone Circuit,George Russell,Mercedes,1.0,1,1:25.819,111.0,4.0,3.5,0.95,5.0,120.0,250.0,Mercedes,1.0,Cloudy,22°C,18°C,20%,12 km/h,Medium-Hard,318 km/h,0.85,1
+2024,13,Hungarian GP,Hungaroring,George Russell,Mercedes,17.0,17,1:17.968,112.0,1.0,1.0,0.94,5.0,128.0,270.0,Mercedes,1.0,Sunny,29°C,24°C,0%,9 km/h,Soft-Medium,310 km/h,0.84,10
+2024,14,Belgian GP,Circuit de Spa-Francorchamps,George Russell,Mercedes,7.0,7,1:54.184,113.0,2.0,1.8,0.93,5.0,136.0,290.0,Mercedes,1.0,Rain,20°C,17°C,70%,14 km/h,Intermediate-Wet,330 km/h,0.83,2
+2024,15,Dutch GP,Circuit Zandvoort,George Russell,Mercedes,4.0,4,1:10.244,114.0,4.0,3.5,0.95,5.0,144.0,310.0,Mercedes,1.0,Cloudy,25°C,20°C,10%,10 km/h,Soft-Medium,312 km/h,0.87,4
+2024,16,Italian GP,Monza Circuit,George Russell,Mercedes,3.0,3,1:19.440,115.0,2.0,1.8,0.94,5.0,152.0,330.0,Mercedes,1.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km,,
+2025,1,Australian Grand Prix,Albert Park Circuit,Andrea Kimi Antonelli,Mercedes,16.0,16,1:20.123,1.0,,,0.95,4.0,12.0,25.0,Mercedes,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,4
+2024,14,Italian GP,Monza Circuit,Andrea Kimi Antonelli,PREMA Racing,15.0,15,1:32.456,0.0,,,0.9,6.0,120.0,200.0,Mecachrome,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.8,18
+2024,13,Belgian GP,Spa-Francorchamps,Andrea Kimi Antonelli,PREMA Racing,6.0,6,1:45.789,0.0,,,0.9,6.0,110.0,180.0,Mecachrome,0.0,Rain,20°C,17°C,70%,14 km/h,Intermediate-Wet,330 km/h,0.83,6
+2024,12,Hungarian GP,Hungaroring,Andrea Kimi Antonelli,PREMA Racing,7.0,7,1:18.234,0.0,,,0.9,6.0,100.0,160.0,Mecachrome,0.0,Cloudy,25°C,20°C,10%,10 km/h,Soft-Medium,312 km/h,0.87,1
+2024,11,British GP,Silverstone Circuit,Andrea Kimi Antonelli,PREMA Racing,1.0,1,1:26.789,0.0,,,0.9,6.0,90.0,140.0,Mecachrome,0.0,Sunny,22°C,18°C,0%,12 km/h,Medium-Hard,318 km/h,0.85,1
+2024,10,Austrian GP,Red Bull Ring,Andrea Kimi Antonelli,PREMA Racing,16.0,16,1:05.432,0.0,,,0.9,6.0,80.0,120.0,Mecachrome,0.0,Clear,28°C,22°C,0%,8 km/h,Soft-Medium,320 km/h,0.88,15
+2024,9,Spanish GP,Circuit de Barcelona-Catalunya,Andrea Kimi Antonelli,PREMA Racing,5.0,5,1:21.234,0.0,,,0.9,6.0,70.0,100.0,Mecachrome,0.0,Sunny,30°C,25°C,0%,10 km/h,Medium-Hard,315 km/h,0.86,15
+2024,8,Monaco GP,Circuit de Monaco,Andrea Kimi Antonelli,PREMA Racing,4.0,4,1:12.345,0.0,,,0.9,6.0,60.0,80.0,Mecachrome,0.0,Sunny,27°C,22°C,0%,7 km/h,Soft-Hard,290 km/h,0.8,4
+2024,7,Emilia-Romagna GP,Imola Circuit,Andrea Kimi Antonelli,PREMA Racing,6.0,6,1:15.678,0.0,,,0.9,6.0,50.0,70.0,Mecachrome,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,10
+2024,6,Australian GP,Albert Park Circuit,Andrea Kimi Antonelli,PREMA Racing,9.0,9,1:20.456,0.0,,,0.9,6.0,40.0,60.0,Mecachrome,0.0,Sunny,26°C,22°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,19
+2024,5,Saudi Arabian GP,Jeddah Street Circuit,Andrea Kimi Antonelli,PREMA Racing,5.0,5,1:28.123,0.0,,,0.9,6.0,30.0,50.0,Mecachrome,0.0,Clear,28°C,24°C,0%,12 km/h,Soft-Medium,325 km/h,0.86,6
+2024,4,Bahrain GP,Bahrain International Circuit,Andrea Kimi Antonelli,PREMA Racing,17.0,17,1:30.789,0.0,,,0.9,6.0,20.0,40.0,Mecachrome,0.0,Clear,30°C,25°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,14
+2025,5,Miami Grand Prix,Miami International Autodrome,Charles Leclerc,Ferrari,3.0,3,1:27.382,7.0,3.0,3.5,0.95,4.0,47.0,78.0,Ferrari,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,320 km/h,0.85,3
+2025,4,Saudi Arabian GP,Jeddah Street Circuit,Charles Leclerc,Ferrari,3.0,3,1:28.456,7.0,4.0,4.5,0.95,4.0,47.0,78.0,Ferrari,0.0,Clear,28°C,26°C,0%,10 km/h,Soft-Medium,325 km/h,0.88,3
+2025,3,Japanese GP,Suzuka Circuit,Charles Leclerc,Ferrari,4.0,4,1:29.789,7.0,4.0,4.5,0.95,4.0,47.0,78.0,Ferrari,0.0,Cloudy,22°C,20°C,10%,8 km/h,Medium-Hard,315 km/h,0.86,4
+2025,2,Chinese GP,Shanghai International Circuit,Charles Leclerc,Ferrari,6.0,6,1:34.289,7.0,4.0,4.5,0.95,4.0,47.0,78.0,Ferrari,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,4
+2025,1,Australian GP,Albert Park Circuit,Charles Leclerc,Ferrari,8.0,8,1:20.123,7.0,4.0,4.5,0.95,4.0,47.0,78.0,Ferrari,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,8
+2024,24,Abu Dhabi GP,Yas Marina Circuit,Charles Leclerc,Ferrari,19.0,14,1:23.833,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,3
+2024,23,Qatar GP,Lusail International Circuit,Charles Leclerc,Ferrari,5.0,5,1:20.852,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,2
+2024,22,Las Vegas GP,Las Vegas Street Circuit,Charles Leclerc,Ferrari,4.0,4,1:32.783,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Clear,26°C,22°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,4
+2024,21,São Paulo GP,Interlagos Circuit,Charles Leclerc,Ferrari,6.0,6,1:24.525,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,5
+2024,20,Mexican GP,Autódromo Hermanos Rodríguez,Charles Leclerc,Ferrari,4.0,4,1:16.265,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Sunny,22°C,18°C,0%,12 km/h,Medium-Hard,318 km/h,0.85,3
+2024,19,United States GP,Circuit of the Americas,Charles Leclerc,Ferrari,4.0,4,1:32.740,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,1
+2024,18,Singapore GP,Marina Bay Street Circuit,Charles Leclerc,Ferrari,9.0,9,1:40.123,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Rain,30°C,26°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,5
+2024,17,Azerbaijan GP,Baku City Circuit,Charles Leclerc,Ferrari,1.0,1,1:41.365,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,325 km/h,0.86,2
+2024,16,Italian GP,Monza Circuit,Charles Leclerc,Ferrari,4.0,4,1:19.461,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.8,1
+2024,15,Dutch GP,Circuit Zandvoort,Charles Leclerc,Ferrari,6.0,6,1:10.582,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,3
+2024,14,Belgian GP,Spa-Francorchamps,Charles Leclerc,Ferrari,1.0,2,1:53.754,6.0,3.0,3.5,0.95,3.0,356.0,620.0,Ferrari,0.0,Rain,20°C,17°C,,,,,,
+2025,5,Miami Grand Prix,Miami International Autodrome,Lewis Hamilton,Ferrari,12.0,12,1:28.107,18.0,3.5,3.0,0.95,9.0,5.0,78.0,Ferrari,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,320 km/h,0.85,12
+2025,4,Chinese GP,Shanghai International Circuit,Lewis Hamilton,Ferrari,5.0,5,1:35.573,18.0,3.5,3.0,0.95,9.0,5.0,78.0,Ferrari,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,DSQ
+2025,3,Australian GP,Albert Park Circuit,Lewis Hamilton,Ferrari,10.0,10,1:16.960,18.0,3.5,3.0,0.95,9.0,5.0,78.0,Ferrari,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,10
+2024,24,Abu Dhabi GP,Yas Marina Circuit,Lewis Hamilton,Mercedes,16.0,18,1:23.887,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,4
+2024,23,Qatar GP,Lusail International Circuit,Lewis Hamilton,Mercedes,6.0,6,1:21.011,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,12
+2024,22,Las Vegas GP,Las Vegas Street Circuit,Lewis Hamilton,Mercedes,10.0,10,1:48.106,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Clear,26°C,22°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,2
+2024,21,São Paulo GP,Interlagos Circuit,Lewis Hamilton,Mercedes,14.0,16,1:31.150,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,10
+2024,20,Mexican GP,Autódromo Hermanos Rodríguez,Lewis Hamilton,Mercedes,6.0,6,1:16.651,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Sunny,22°C,18°C,0%,12 km/h,Medium-Hard,318 km/h,0.85,4
+2024,19,United States GP,Circuit of the Americas,Lewis Hamilton,Mercedes,17.0,19,1:34.154,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,DNF
+2024,18,Singapore GP,Marina Bay Street Circuit,Lewis Hamilton,Mercedes,3.0,3,1:29.841,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Rain,30°C,26°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,6
+2024,17,Azerbaijan GP,Baku City Circuit,Lewis Hamilton,Mercedes,7.0,7,1:42.289,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,325 km/h,0.86,9
+2024,16,Italian GP,Monza Circuit,Lewis Hamilton,Mercedes,6.0,6,1:19.513,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.8,5
+2024,15,Dutch GP,Circuit Zandvoort,Lewis Hamilton,Mercedes,14.0,11,1:10.948,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,8
+2024,14,Belgian GP,Spa-Francorchamps,Lewis Hamilton,Mercedes,3.0,4,1:53.835,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Rain,20°C,17°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,1
+2024,13,Hungarian GP,Hungaroring,Lewis Hamilton,Mercedes,5.0,5,1:15.854,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,3
+2024,12,British GP,Silverstone Circuit,Lewis Hamilton,Mercedes,2.0,2,1:25.990,17.0,3.0,3.5,0.95,7.0,223.0,620.0,Mercedes,0.0,Cloudy,22°C,18°C,20%,,,,,
+2025,5,Miami Grand Prix,Miami International Autodrome,Fernando Alonso,Aston Martin,10.0,10,1:28.500,20.0,3.5,3.0,0.9,19.0,0.0,10.0,Mercedes,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,320 km/h,0.85,12
+2025,4,Chinese GP,Shanghai International Circuit,Fernando Alonso,Aston Martin,13.0,13,1:35.800,20.0,3.5,3.0,0.9,19.0,0.0,10.0,Mercedes,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,RET
+2025,3,Australian GP,Albert Park Circuit,Fernando Alonso,Aston Martin,12.0,12,1:17.000,20.0,3.5,3.0,0.9,19.0,0.0,10.0,Mercedes,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,17
+2024,24,Abu Dhabi GP,Yas Marina Circuit,Fernando Alonso,Aston Martin,16.0,16,1:24.000,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,9
+2024,23,Qatar GP,Lusail International Circuit,Fernando Alonso,Aston Martin,7.0,7,1:21.000,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,7
+2024,22,Las Vegas GP,Las Vegas Street Circuit,Fernando Alonso,Aston Martin,10.0,10,1:48.000,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Clear,26°C,22°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,9
+2024,21,São Paulo GP,Interlagos Circuit,Fernando Alonso,Aston Martin,14.0,14,1:31.000,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,10
+2024,20,Mexican GP,Autódromo Hermanos Rodríguez,Fernando Alonso,Aston Martin,6.0,6,1:16.600,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Sunny,22°C,18°C,0%,12 km/h,Medium-Hard,318 km/h,0.85,8
+2024,19,United States GP,Circuit of the Americas,Fernando Alonso,Aston Martin,17.0,17,1:34.000,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,9
+2024,18,Singapore GP,Marina Bay Street Circuit,Fernando Alonso,Aston Martin,3.0,3,1:29.800,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Rain,30°C,26°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,6
+2024,17,Azerbaijan GP,Baku City Circuit,Fernando Alonso,Aston Martin,7.0,7,1:42.200,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,325 km/h,0.86,6
+2024,16,Italian GP,Monza Circuit,Fernando Alonso,Aston Martin,6.0,6,1:19.500,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.8,11
+2024,15,Dutch GP,Circuit Zandvoort,Fernando Alonso,Aston Martin,14.0,14,1:10.900,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,8
+2024,14,Belgian GP,Spa-Francorchamps,Fernando Alonso,Aston Martin,3.0,3,1:53.800,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Rain,20°C,17°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,5
+2024,13,Hungarian GP,Hungaroring,Fernando Alonso,Aston Martin,5.0,5,1:15.800,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,7
+2024,12,British GP,Silverstone Circuit,Fernando Alonso,Aston Martin,2.0,2,1:25.900,19.0,3.0,3.5,0.95,9.0,70.0,280.0,Mercedes,0.0,Cloudy,22°C,18°C,20%,12 km/h,Soft-Medium,318 km/h,,
+2025,5,Miami Grand Prix,Miami International Autodrome,Lance Stroll,Aston Martin,16.0,16,1:29.200,9.0,12.0,10.5,0.9,14.0,8.0,18.0,Mercedes,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,318 km/h,0.8,14
+2025,4,Chinese GP,Shanghai International Circuit,Lance Stroll,Aston Martin,15.0,15,1:36.100,9.0,11.5,10.0,0.9,14.0,8.0,18.0,Mercedes,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.78,9
+2025,3,Australian GP,Albert Park Circuit,Lance Stroll,Aston Martin,13.0,13,1:17.800,9.0,10.0,9.5,0.9,14.0,8.0,18.0,Mercedes,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.82,6
+2024,24,Abu Dhabi GP,Yas Marina Circuit,Lance Stroll,Aston Martin,14.0,14,1:24.500,8.0,11.0,10.0,0.95,13.0,45.0,150.0,Mercedes,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.8,14
+2024,23,Qatar GP,Lusail International Circuit,Lance Stroll,Aston Martin,18.0,18,1:21.800,8.0,12.0,11.0,0.95,13.0,45.0,150.0,Mercedes,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.78,RET
+2024,22,Las Vegas GP,Las Vegas Street Circuit,Lance Stroll,Aston Martin,20.0,20,1:49.000,8.0,13.0,12.0,0.95,13.0,45.0,150.0,Mercedes,0.0,Clear,26°C,22°C,0%,8 km/h,Medium-Hard,315 km/h,0.75,15
+2024,21,São Paulo GP,Interlagos Circuit,Lance Stroll,Aston Martin,17.0,17,1:31.500,8.0,12.5,11.5,0.95,13.0,45.0,150.0,Mercedes,0.0,Rain,24°C,20°C,60%,9 km/h,Intermediate-Wet,316 km/h,0.77,DNS
+2024,20,Mexican GP,Autódromo Hermanos Rodríguez,Lance Stroll,Aston Martin,11.0,11,1:17.200,8.0,10.5,9.5,0.95,13.0,45.0,150.0,Mercedes,0.0,Sunny,22°C,18°C,0%,12 km/h,Medium-Hard,318 km/h,0.8,11
+2024,19,United States GP,Circuit of the Americas,Lance Stroll,Aston Martin,15.0,15,1:34.500,8.0,11.0,10.0,0.95,13.0,45.0,150.0,Mercedes,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.82,15
+2024,18,Singapore GP,Marina Bay Street Circuit,Lance Stroll,Aston Martin,14.0,14,1:30.500,8.0,11.5,10.5,0.95,13.0,45.0,150.0,Mercedes,0.0,Cloudy,30°C,26°C,20%,14 km/h,Soft-Medium,310 km/h,0.78,14
+2024,17,Azerbaijan GP,Baku City Circuit,Lance Stroll,Aston Martin,18.0,18,1:42.800,8.0,12.0,11.0,0.95,13.0,45.0,150.0,Mercedes,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,325 km/h,0.75,RET
+2024,16,Italian GP,Monza Circuit,Lance Stroll,Aston Martin,17.0,17,1:20.000,8.0,12.5,11.5,0.95,13.0,45.0,150.0,Mercedes,0.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.77,19
+2024,15,Dutch GP,Circuit Zandvoort,Lance Stroll,Aston Martin,8.0,8,1:11.500,8.0,10.0,9.5,0.95,13.0,45.0,150.0,Mercedes,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.8,13
+2024,14,Belgian GP,Spa-Francorchamps,Lance Stroll,Aston Martin,15.0,15,1:54.500,8.0,11.0,10.0,0.95,13.0,45.0,150.0,Mercedes,0.0,Rain,20°C,17°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.78,11
+2024,13,Hungarian GP,Hungaroring,Lance Stroll,Aston Martin,10.0,10,1:16.500,8.0,9.5,9.0,0.95,13.0,45.0,150.0,Mercedes,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.82,10
+2024,12,British GP,Silverstone Circuit,Lance Stroll,Aston Martin,9.0,9,1:26.500,8.0,9.0,8.5,0.95,13.0,45.0,150.0,Mercedes,0.0,Cloudy,22°C,,,,,,,
+2025,5,Miami Grand Prix,Miami International Autodrome,Oliver Bearman,Haas,18.0,18,1:29.800,4.0,14.0,12.0,0.9,16.0,4.0,14.0,Ferrari,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,318 km/h,0.8,RET
+2025,4,Chinese Grand Prix,Shanghai International Circuit,Oliver Bearman,Haas,17.0,17,1:36.200,4.0,8.0,9.5,0.9,16.0,4.0,14.0,Ferrari,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.78,8
+2025,3,Australian Grand Prix,Albert Park Circuit,Oliver Bearman,Haas,20.0,20,,4.0,14.0,12.0,0.9,16.0,4.0,14.0,Ferrari,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.82,14
+2024,21,Brazilian Grand Prix,Interlagos Circuit,Oliver Bearman,Haas,15.0,15,1:31.500,3.0,12.0,11.0,0.95,18.0,7.0,28.0,Ferrari,0.0,Rain,24°C,20°C,60%,9 km/h,Intermediate-Wet,316 km/h,0.77,12
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Oliver Bearman,Haas,10.0,10,1:42.800,2.0,10.0,9.5,0.95,18.0,7.0,28.0,Ferrari,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,325 km/h,0.75,10
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oliver Bearman,Ferrari,11.0,11,1:30.000,1.0,7.0,6.5,0.95,18.0,7.0,28.0,Ferrari,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.8,7
+2025,5,Miami Grand Prix,Miami International Autodrome,Esteban Ocon,Haas,18.0,18,1:29.800,9.0,14.0,12.0,0.9,16.0,4.0,14.0,Ferrari,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,318 km/h,0.8,RET
+2025,4,Chinese Grand Prix,Shanghai International Circuit,Esteban Ocon,Haas,17.0,17,1:36.200,9.0,8.0,9.5,0.9,16.0,4.0,14.0,Ferrari,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.78,8
+2025,3,Australian Grand Prix,Albert Park Circuit,Esteban Ocon,Haas,20.0,20,,9.0,14.0,12.0,0.9,16.0,4.0,14.0,Ferrari,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.82,14
+2024,21,Brazilian Grand Prix,Interlagos Circuit,Esteban Ocon,Alpine,4.0,4,1:24.475,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Rain,24°C,20°C,60%,9 km/h,Intermediate-Wet,316 km/h,0.77,2
+2024,20,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Esteban Ocon,Alpine,19.0,19,1:17.617,8.0,10.0,9.5,0.95,14.0,23.0,120.0,Renault,0.0,Clear,22°C,18°C,0%,12 km/h,Medium-Hard,318 km/h,0.75,13
+2024,19,United States Grand Prix,Circuit of the Americas,Esteban Ocon,Alpine,13.0,13,1:33.597,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,18
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Esteban Ocon,Alpine,15.0,15,1:30.769,8.0,10.0,9.5,0.95,14.0,23.0,120.0,Renault,0.0,Rain,30°C,26°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,13
+2024,17,Italian Grand Prix,Monza Circuit,Esteban Ocon,Alpine,15.0,15,1:20.766,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.8,14
+2024,16,Dutch Grand Prix,Circuit Zandvoort,Esteban Ocon,Alpine,15.0,16,1:11.995,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,15
+2024,15,Belgian Grand Prix,Spa-Francorchamps,Esteban Ocon,Alpine,10.0,10,1:54.810,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Rain,20°C,17°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,9
+2024,14,Hungarian Grand Prix,Hungaroring,Esteban Ocon,Alpine,19.0,19,1:18.049,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,18
+2024,13,British Grand Prix,Silverstone Circuit,Esteban Ocon,Alpine,18.0,18,1:34.557,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Cloudy,22°C,18°C,20%,12 km/h,Soft-Medium,318 km/h,0.84,16
+2024,12,Austrian Grand Prix,Red Bull Ring,Esteban Ocon,Alpine,10.0,10,1:05.883,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,12
+2024,11,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Esteban Ocon,Alpine,8.0,9,1:12.125,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,10
+2024,10,Canadian Grand Prix,Circuit Gilles Villeneuve,Esteban Ocon,Alpine,18.0,18,1:13.435,8.0,12.0,11.0,0.95,14.0,23.0,120.0,Renault,0.0,Cloudy,22°C,18°C,20%,12 km/h,Soft-Medium,318 km/h,0.84,10
+2024,9,Monaco Grand Prix,Circuit de Monaco,Esteban Ocon,Alpine,11.0,11,1:11.285,8.0,12.0,11.0,0.95,14.0,,,,,,,,,,,,,
+2025,5,Miami Grand Prix,Miami International Autodrome,Pierre Gasly,Alpine,12.0,12,1:28.324,8.0,12.0,11.0,0.9,10.0,42.0,120.0,Renault,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,318 km/h,0.8,12
+2025,4,Chinese Grand Prix,Shanghai International Circuit,Pierre Gasly,Alpine,15.0,15,1:35.463,8.0,11.0,10.5,0.9,10.0,42.0,120.0,Renault,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.78,13
+2025,3,Australian Grand Prix,Albert Park Circuit,Pierre Gasly,Alpine,17.0,17,1:17.982,8.0,12.0,11.0,0.9,10.0,42.0,120.0,Renault,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.82,13
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Pierre Gasly,Alpine,6.0,6,1:22.984,8.0,10.0,9.5,0.95,10.0,42.0,120.0,Renault,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,7
+2024,23,Qatar Grand Prix,Lusail International Circuit,Pierre Gasly,Alpine,11.0,11,1:21.437,8.0,9.0,9.0,0.95,10.0,42.0,120.0,Renault,0.0,Clear,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,5
+2024,22,Las Vegas Grand Prix,Las Vegas Street Circuit,Pierre Gasly,Alpine,3.0,3,1:32.664,8.0,11.0,10.0,0.95,10.0,42.0,120.0,Renault,0.0,Clear,26°C,22°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,DNF
+2024,21,São Paulo Grand Prix,Interlagos Circuit,Pierre Gasly,Alpine,15.0,15,1:29.614,8.0,9.0,8.5,0.95,10.0,42.0,120.0,Renault,0.0,Rain,24°C,20°C,60%,9 km/h,Intermediate-Wet,316 km/h,0.77,3
+2024,20,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Pierre Gasly,Alpine,8.0,8,1:16.892,8.0,10.0,9.5,0.95,10.0,42.0,120.0,Renault,0.0,Clear,22°C,18°C,0%,12 km/h,Medium-Hard,318 km/h,0.75,10
+2024,19,United States Grand Prix,Circuit of the Americas,Pierre Gasly,Alpine,7.0,7,1:33.018,8.0,12.0,11.0,0.95,10.0,42.0,120.0,Renault,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.85,12
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Pierre Gasly,Alpine,18.0,18,1:31.312,8.0,10.0,9.5,0.95,10.0,42.0,120.0,Renault,0.0,Rain,30°C,26°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.83,17
+2024,17,Italian Grand Prix,Monza Circuit,Pierre Gasly,Alpine,14.0,14,1:20.738,8.0,12.0,11.0,0.95,10.0,42.0,120.0,Renault,0.0,Sunny,30°C,25°C,0%,8 km/h,Medium-Hard,330 km/h,0.8,15
+2024,16,Dutch Grand Prix,Circuit Zandvoort,Pierre Gasly,Alpine,9.0,9,1:10.977,8.0,12.0,11.0,0.95,10.0,42.0,120.0,Renault,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,9
+2024,15,Belgian Grand Prix,Spa-Francorchamps,Pierre Gasly,Alpine,12.0,12,1:54.635,8.0,12.0,11.0,0.95,10.0,42.0,120.0,Renault,0.0,Rain,20°C,17°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,13
+2024,14,Hungarian Grand Prix,Hungaroring,Pierre Gasly,Alpine,20.0,20,1:18.166,8.0,12.0,11.0,0.95,10.0,42.0,120.0,Renault,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,DNF
+2024,13,British Grand Prix,Silverstone Circuit,Pierre Gasly,Alpine,20.0,20,1:39.804,8.0,12.0,11.0,0.95,10.0,42.0,120.0,Renault,0.0,Cloudy,22°C,18°C,20%,12 km/h,Soft-Medium,318 km/h,0.84,DNS
+2024,12,Austrian Grand Prix,Red Bull Ring,Pierre Gasly,Alpine,13.0,13,1:05.359,8.0,12.0,11.0,0.95,10.0,42.0,120.0,Renault,0.0,Sunny,28°C,24°C,0%,,,,,
+2025,5,Miami Grand Prix,Miami International Autodrome,Jack Doohan,Alpine F1 Team,14.0,14,1:29.456,1.0,,,0.9,20.0,0.0,15.0,Renault,0.0,Sunny,30°C,28°C,0%,12 km/h,Medium-Hard,318 km/h,0.8,DNF
+2025,4,Chinese Grand Prix,Shanghai International Circuit,Jack Doohan,Alpine F1 Team,15.0,15,1:36.789,1.0,,,0.9,20.0,0.0,15.0,Renault,0.0,Rain,20°C,18°C,70%,14 km/h,Intermediate-Wet,310 km/h,0.78,17
+2025,3,Australian Grand Prix,Albert Park Circuit,Jack Doohan,Alpine F1 Team,17.0,17,1:18.345,1.0,,,0.9,20.0,0.0,15.0,Renault,0.0,Sunny,28°C,22°C,0%,10 km/h,Soft-Medium,320 km/h,0.82,14
+2025,2,Japanese Grand Prix,Suzuka Circuit,Jack Doohan,Alpine F1 Team,16.0,16,1:30.112,1.0,,,0.9,20.0,0.0,15.0,Renault,0.0,Cloudy,22°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.85,15
+2025,1,Bahrain Grand Prix,Bahrain International Circuit,Jack Doohan,Alpine F1 Team,18.0,18,1:32.456,1.0,,,0.9,20.0,0.0,15.0,Renault,0.0,Sunny,28°C,24°C,0%,10 km/h,Medium-Hard,320 km/h,0.86,15
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Jack Doohan,Alpine F1 Team,20.0,20,1:23.789,0.0,,,0.9,24.0,0.0,10.0,Renault,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,15
+2023,14,Abu Dhabi Feature Race,Yas Marina Circuit,Jack Doohan,Invicta Virtuosi,1.0,1,1:36.789,2.0,,,0.95,3.0,168.0,,,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,1
+2023,13,Monza Feature Race,Monza Circuit,Jack Doohan,Invicta Virtuosi,9.0,9,1:32.456,2.0,,,0.95,3.0,168.0,,,0.0,Sunny,28°C,24°C,0%,10 km/h,Medium-Hard,320 km/h,0.86,6
+2023,12,Zandvoort Feature Race,Circuit Zandvoort,Jack Doohan,Invicta Virtuosi,6.0,6,1:21.789,2.0,,,0.95,3.0,168.0,,,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,DNS
+2023,11,Spa Feature Race,Spa-Francorchamps,Jack Doohan,Invicta Virtuosi,2.0,2,1:55.123,2.0,,,0.95,3.0,168.0,,,0.0,Rain,20°C,17°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,1
+2023,10,Hungaroring Feature Race,Hungaroring,Jack Doohan,Invicta Virtuosi,1.0,1,1:28.456,2.0,,,0.95,3.0,168.0,,,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,1
+2023,9,Silverstone Feature Race,Silverstone Circuit,Jack Doohan,Invicta Virtuosi,3.0,3,1:39.456,2.0,,,0.95,3.0,168.0,,,0.0,Cloudy,22°C,18°C,20%,12 km/h,Soft-Medium,318 km/h,0.84,4
+2023,8,Red Bull Ring Feature Race,Red Bull Ring,Jack Doohan,Invicta Virtuosi,4.0,4,1:05.789,2.0,,,0.95,3.0,168.0,,,0.0,Sunny,28°C,24°C,0%,10 km/h,Medium-Hard,320 km/h,0.86,6
+2023,7,Barcelona Feature Race,Circuit de Barcelona-Catalunya,Jack Doohan,Invicta Virtuosi,5.0,5,1:27.456,2.0,,,0.95,3.0,168.0,,,0.0,Sunny,28°C,24°C,0%,10 km/h,Soft-Medium,320 km/h,0.86,6
+2023,6,Monaco Feature Race,Circuit de Monaco,Jack Doohan,Invicta Virtuosi,6.0,6,1:22.456,2.0,,,0.95,3.0,168.0,,,0.0,Cloudy,24°C,20°C,10%,9 km/h,Soft-Medium,316 km/h,0.88,Ret
+2023,5,Baku Feature Race,Baku City Circuit,Jack Doohan,Invicta Virtuosi,7.0,7,1:43.789,2.0,,,0.95,3.0,168.0,,,0.0,Sunny,,,,,,,,
+2025,3,Australian Grand Prix,Albert Park Circuit,Alexander Albon,Williams Racing,6.0,6,1:20.123,6.0,10.5,12.3,0.85,5.0,10.0,12.0,Mercedes,1.0,Sunny,28°C,24°C,0%,10 km/h,Medium-Hard,320 km/h,0.85,4
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Alexander Albon,Williams Racing,18.0,16,1:24.321,5.0,13.2,14.5,0.8,16.0,12.0,15.0,Mercedes,0.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,11
+2024,23,Qatar Grand Prix,Lusail International Circuit,Alexander Albon,Williams Racing,16.0,16,1:22.390,5.0,14.0,15.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,32°C,30°C,0%,12 km/h,Soft-Medium,318 km/h,0.82,15
+2024,22,Las Vegas Grand Prix,Las Vegas Street Circuit,Alexander Albon,Williams Racing,17.0,18,1:34.425,5.0,,,0.8,16.0,12.0,15.0,Mercedes,0.0,Clear,25°C,22°C,0%,10 km/h,Medium-Hard,310 km/h,0.8,DNF
+2024,21,São Paulo Grand Prix,Interlagos Circuit,Alexander Albon,Williams Racing,7.0,7,1:24.657,5.0,12.5,13.5,0.8,16.0,12.0,15.0,Mercedes,0.0,Rain,22°C,20°C,60%,14 km/h,Intermediate-Wet,312 km/h,0.78,DNS
+2024,20,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Alexander Albon,Williams Racing,9.0,9,1:17.065,5.0,11.0,12.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,26°C,24°C,0%,9 km/h,Soft-Medium,316 km/h,0.85,DNF
+2024,19,United States Grand Prix,Circuit of the Americas,Alexander Albon,Williams Racing,14.0,16,1:34.051,5.0,13.5,14.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.83,16
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Alexander Albon,Williams Racing,11.0,11,1:30.474,5.0,14.5,15.5,0.8,16.0,12.0,15.0,Mercedes,0.0,Rain,30°C,28°C,70%,12 km/h,Intermediate-Wet,310 km/h,0.8,DNF
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Alexander Albon,Williams Racing,9.0,10,1:42.859,5.0,10.0,11.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.85,7
+2024,16,Italian Grand Prix,Monza Circuit,Alexander Albon,Williams Racing,9.0,9,1:20.299,5.0,9.5,10.5,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,27°C,25°C,0%,8 km/h,Medium-Hard,322 km/h,0.86,9
+2024,15,Dutch Grand Prix,Circuit Zandvoort,Alexander Albon,Williams Racing,19.0,DQ,,5.0,13.0,14.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Cloudy,24°C,22°C,10%,9 km/h,Soft-Medium,316 km/h,0.8,14
+2024,14,Belgian Grand Prix,Spa-Francorchamps,Alexander Albon,Williams Racing,10.0,11,1:54.473,5.0,12.0,13.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Rain,20°C,18°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,12
+2024,13,Hungarian Grand Prix,Hungaroring,Alexander Albon,Williams Racing,13.0,13,1:16.429,5.0,13.5,14.5,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,28°C,26°C,0%,10 km/h,Soft-Medium,318 km/h,0.84,14
+2024,12,British Grand Prix,Silverstone Circuit,Alexander Albon,Williams Racing,9.0,9,1:26.640,5.0,10.0,11.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Cloudy,22°C,20°C,20%,12 km/h,Soft-Medium,320 km/h,0.85,9
+2024,11,Austrian Grand Prix,Red Bull Ring,Alexander Albon,Williams Racing,16.0,16,1:05.736,5.0,12.5,13.5,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.84,15
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Alexander Albon,Williams Racing,19.0,19,1:13.153,5.0,13.0,14.0,0.8,16.0,12.0,15.0,Mercedes,0.0,Sunny,28°C,,,,,,,
+2025,1,Australian Grand Prix,Albert Park Circuit,Carlos Sainz Jr.,Williams Racing,10.0,10,1:20.456,10.0,6.5,8.2,0.9,17.0,0.0,0.0,Mercedes,0.0,Sunny,28°C,24°C,0%,10 km/h,Medium-Hard,320 km/h,0.85,DNS
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Carlos Sainz Jr.,Ferrari,3.0,3,1:22.824,9.0,5.0,5.5,0.95,5.0,290.0,500.0,Ferrari,1.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,2
+2024,23,Qatar Grand Prix,Lusail International Circuit,Carlos Sainz Jr.,Ferrari,7.0,7,1:21.041,9.0,6.0,6.5,0.95,5.0,290.0,500.0,Ferrari,1.0,Sunny,32°C,30°C,0%,12 km/h,Soft-Medium,318 km/h,0.82,6
+2024,22,Las Vegas Grand Prix,Las Vegas Street Circuit,Carlos Sainz Jr.,Ferrari,2.0,2,1:32.410,9.0,,,0.95,5.0,290.0,500.0,Ferrari,1.0,Clear,25°C,22°C,0%,10 km/h,Medium-Hard,310 km/h,0.8,3
+2024,21,São Paulo Grand Prix,Interlagos Circuit,Carlos Sainz Jr.,Ferrari,14.0,14,1:29.406,9.0,5.5,6.0,0.95,5.0,290.0,500.0,Ferrari,1.0,Rain,22°C,20°C,60%,14 km/h,Intermediate-Wet,312 km/h,0.78,DNF
+2024,20,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Carlos Sainz Jr.,Ferrari,1.0,1,1:15.946,9.0,4.0,4.5,0.95,5.0,290.0,500.0,Ferrari,1.0,Sunny,26°C,24°C,0%,9 km/h,Soft-Medium,316 km/h,0.85,1
+2024,19,United States Grand Prix,Circuit of the Americas,Carlos Sainz Jr.,Ferrari,3.0,3,1:32.652,9.0,5.0,5.5,0.95,5.0,290.0,500.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.83,2
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Carlos Sainz Jr.,Ferrari,10.0,10,,9.0,6.0,6.5,0.95,5.0,290.0,500.0,Ferrari,1.0,Rain,30°C,28°C,70%,12 km/h,Intermediate-Wet,310 km/h,0.8,7
+2024,17,Italian Grand Prix,Monza Circuit,Carlos Sainz Jr.,Ferrari,5.0,5,1:19.467,9.0,4.5,5.0,0.95,5.0,290.0,500.0,Ferrari,1.0,Sunny,27°C,25°C,0%,8 km/h,Medium-Hard,322 km/h,0.86,4
+2024,16,Dutch Grand Prix,Circuit Zandvoort,Carlos Sainz Jr.,Ferrari,10.0,10,1:10.914,9.0,5.5,6.0,0.95,5.0,290.0,500.0,Ferrari,1.0,Cloudy,24°C,22°C,10%,9 km/h,Soft-Medium,316 km/h,0.8,5
+2024,15,Belgian Grand Prix,Spa-Francorchamps,Carlos Sainz Jr.,Ferrari,8.0,8,1:54.477,9.0,5.0,5.5,0.95,5.0,290.0,500.0,Ferrari,1.0,Rain,20°C,18°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,6
+2024,14,Hungarian Grand Prix,Hungaroring,Carlos Sainz Jr.,Ferrari,4.0,4,1:15.696,9.0,5.5,6.0,0.95,5.0,290.0,500.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Soft-Medium,318 km/h,0.84,6
+2024,13,British Grand Prix,Silverstone Circuit,Carlos Sainz Jr.,Ferrari,7.0,7,1:26.509,9.0,5.0,5.5,0.95,5.0,290.0,500.0,Ferrari,1.0,Cloudy,22°C,20°C,20%,12 km/h,Soft-Medium,320 km/h,0.85,5
+2024,12,Austrian Grand Prix,Red Bull Ring,Carlos Sainz Jr.,Ferrari,4.0,4,1:04.851,9.0,4.5,5.0,0.95,5.0,290.0,500.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.84,3
+2024,11,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Carlos Sainz Jr.,Ferrari,6.0,6,1:11.736,9.0,5.5,6.0,0.95,5.0,290.0,500.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Soft-Medium,318 km/h,0.84,6
+2024,10,Canadian Grand Prix,Circuit Gilles Villeneuve,Carlos Sainz Jr.,Ferrari,12.0,12,1:12.728,9.0,5.0,5.5,0.95,5.0,,,,,,,,,,,,,
+2025,1,Australian Grand Prix,Albert Park Circuit,Nico Hülkenberg,Stake F1 Team Kick Sauber,17.0,17,1:22.886,14.0,12.0,14.5,0.95,7.0,6.0,6.0,Ferrari,0.0,Sunny,28°C,24°C,0%,10 km/h,Medium-Hard,320 km/h,0.85,7
+2024,24,Abu Dhabi Grand Prix,Yas Marina Circuit,Nico Hülkenberg,Haas F1 Team,7.0,4,1:22.886,13.0,10.0,12.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Clear,30°C,25°C,0%,8 km/h,Medium-Hard,315 km/h,0.84,8
+2024,23,Las Vegas Grand Prix,Las Vegas Street Circuit,Nico Hülkenberg,Haas F1 Team,9.0,9,1:33.062,13.0,,,0.9,11.0,41.0,41.0,Ferrari,1.0,Clear,25°C,22°C,0%,10 km/h,Medium-Hard,310 km/h,0.8,8
+2024,22,São Paulo Grand Prix,Interlagos Circuit,Nico Hülkenberg,Haas F1 Team,18.0,19,1:31.623,13.0,13.0,15.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Rain,22°C,20°C,60%,14 km/h,Intermediate-Wet,312 km/h,0.78,DSQ
+2024,21,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Nico Hülkenberg,Haas F1 Team,10.0,10,1:17.365,13.0,11.0,13.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Sunny,26°C,24°C,0%,9 km/h,Soft-Medium,316 km/h,0.85,9
+2024,20,United States Grand Prix,Circuit of the Americas,Nico Hülkenberg,Haas F1 Team,11.0,12,1:33.544,13.0,10.0,12.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.83,8
+2024,19,Singapore Grand Prix,Marina Bay Street Circuit,Nico Hülkenberg,Haas F1 Team,6.0,6,1:30.115,13.0,9.0,11.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Rain,30°C,28°C,70%,12 km/h,Intermediate-Wet,310 km/h,0.8,9
+2024,18,Italian Grand Prix,Monza Circuit,Nico Hülkenberg,Haas F1 Team,10.0,10,1:20.339,13.0,12.0,14.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Sunny,27°C,25°C,0%,8 km/h,Medium-Hard,322 km/h,0.86,17
+2024,17,Dutch Grand Prix,Circuit Zandvoort,Nico Hülkenberg,Haas F1 Team,12.0,13,1:11.215,13.0,11.0,13.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Cloudy,24°C,22°C,10%,9 km/h,Soft-Medium,316 km/h,0.8,11
+2024,16,Belgian Grand Prix,Spa-Francorchamps,Nico Hülkenberg,Haas F1 Team,16.0,16,1:56.308,13.0,13.0,15.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Rain,20°C,18°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,18
+2024,15,Hungarian Grand Prix,Hungaroring,Nico Hülkenberg,Haas F1 Team,11.0,11,1:16.317,13.0,11.0,13.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Soft-Medium,318 km/h,0.84,13
+2024,14,British Grand Prix,Silverstone Circuit,Nico Hülkenberg,Haas F1 Team,6.0,6,1:26.338,13.0,9.0,11.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Cloudy,22°C,20°C,20%,12 km/h,Soft-Medium,320 km/h,0.85,6
+2024,13,Austrian Grand Prix,Red Bull Ring,Nico Hülkenberg,Haas F1 Team,9.0,9,1:05.385,13.0,10.0,12.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.84,6
+2024,12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Nico Hülkenberg,Haas F1 Team,13.0,13,1:12.310,13.0,11.0,13.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Sunny,28°C,26°C,0%,10 km/h,Soft-Medium,318 km/h,0.84,11
+2024,11,Canadian Grand Prix,Circuit Gilles Villeneuve,Nico Hülkenberg,Haas F1 Team,19.0,19,1:13.978,13.0,12.0,14.0,0.9,11.0,41.0,41.0,Ferrari,1.0,Cloudy,22°C,20°C,20%,12 km/h,Soft-Medium,320 km/h,0.85,11
+2024,10,Monaco Grand Prix,Circuit de Monaco,Nico H,,,,,,,,,,,,,,,,,,,,,,
+2024,5,Chinese Grand Prix,Shanghai International Circuit,Yuki Tsunoda,Visa Cash App RB Formula One Team,19.0,19,1:35.746,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Cloudy,22°C,20°C,20%,12 km/h,Medium-Hard,310 km/h,0.8,DNF
+2024,6,Miami Grand Prix,Miami International Autodrome,Yuki Tsunoda,Visa Cash App RB Formula One Team,10.0,10,1:28.192,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.84,7
+2024,7,Emilia Romagna Grand Prix,Imola Circuit,Yuki Tsunoda,Visa Cash App RB Formula One Team,7.0,7,1:15.465,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,24°C,22°C,0%,9 km/h,Soft-Medium,316 km/h,0.8,10
+2024,8,Monaco Grand Prix,Circuit de Monaco,Yuki Tsunoda,Visa Cash App RB Formula One Team,8.0,8,1:10.858,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Cloudy,22°C,20°C,20%,12 km/h,Soft-Medium,320 km/h,0.85,8
+2024,9,Canadian Grand Prix,Circuit Gilles Villeneuve,Yuki Tsunoda,Visa Cash App RB Formula One Team,8.0,8,1:12.414,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Cloudy,22°C,20°C,20%,12 km/h,Soft-Medium,320 km/h,0.85,14
+2024,10,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Yuki Tsunoda,Visa Cash App RB Formula One Team,17.0,17,1:12.985,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,28°C,26°C,0%,10 km/h,Soft-Medium,318 km/h,0.84,19
+2024,11,Austrian Grand Prix,Red Bull Ring,Yuki Tsunoda,Visa Cash App RB Formula One Team,14.0,14,1:05.412,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.84,14
+2024,12,British Grand Prix,Silverstone Circuit,Yuki Tsunoda,Visa Cash App RB Formula One Team,13.0,13,1:27.269,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Cloudy,22°C,20°C,20%,12 km/h,Soft-Medium,320 km/h,0.85,10
+2024,13,Hungarian Grand Prix,Hungaroring,Yuki Tsunoda,Visa Cash App RB Formula One Team,10.0,10,1:16.477,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,28°C,26°C,0%,10 km/h,Soft-Medium,318 km/h,0.84,9
+2024,14,Belgian Grand Prix,Spa-Francorchamps,Yuki Tsunoda,Visa Cash App RB Formula One Team,18.0,18,1:56.593,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Rain,20°C,18°C,80%,15 km/h,Intermediate-Wet,310 km/h,0.83,16
+2024,15,Dutch Grand Prix,Circuit Zandvoort,Yuki Tsunoda,Visa Cash App RB Formula One Team,13.0,13,1:10.955,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Cloudy,24°C,22°C,10%,9 km/h,Soft-Medium,316 km/h,0.8,17
+2024,16,Italian Grand Prix,Monza Circuit,Yuki Tsunoda,Visa Cash App RB Formula One Team,16.0,16,1:20.945,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,27°C,25°C,0%,8 km/h,Medium-Hard,322 km/h,0.86,DNF
+2024,17,Azerbaijan Grand Prix,Baku City Circuit,Yuki Tsunoda,Visa Cash App RB Formula One Team,12.0,12,1:43.035,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.84,DNF
+2024,18,Singapore Grand Prix,Marina Bay Street Circuit,Yuki Tsunoda,Visa Cash App RB Formula One Team,8.0,8,1:30.354,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Rain,30°C,28°C,70%,12 km/h,Intermediate-Wet,310 km/h,0.8,12
+2024,19,United States Grand Prix,Circuit of the Americas,Yuki Tsunoda,Visa Cash App RB Formula One Team,11.0,11,1:33.506,4.0,,,0.9,12.0,30.0,,Honda RBPT,0.0,Sunny,28°C,26°C,0%,10 km/h,Medium-Hard,320 km/h,0.83,14
+2023,3,Australian Grand Prix,Albert Park Circuit,Max Verstappen,Red Bull Racing,1,1.0,1:16.732,8.0,2.5,3.0,0.98,1.0,68.0,123.0,Honda RBPT,0.0,Dry,27.0,22.0,10.0,12.0,Medium-Soft,320.0,0.85,1
+2023,5,Miami Grand Prix,Miami International,Max Verstappen,Red Bull Racing,9,9.0,1:26.814,8.0,1.0,2.0,0.97,1.0,119.0,217.0,Honda RBPT,0.0,Dry,30.0,28.0,5.0,10.0,Soft-Medium,315.0,0.8,1
+2023,6,Monaco Grand Prix,Circuit de Monaco,Max Verstappen,Red Bull Racing,1,1.0,1:11.365,8.0,3.0,4.0,0.95,1.0,144.0,241.0,Honda RBPT,0.0,Dry,24.0,20.0,0.0,8.0,Soft-Soft,290.0,0.75,1
+2023,7,Spanish Grand Prix,Circuit de Barcelona,Max Verstappen,Red Bull Racing,1,1.0,1:12.272,8.0,2.0,2.5,0.98,1.0,169.0,266.0,Honda RBPT,0.0,Dry,28.0,25.0,0.0,10.0,Medium-Hard,310.0,0.82,1
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing,1,1.0,1:25.858,8.0,1.5,2.0,0.97,1.0,194.0,291.0,Honda RBPT,0.0,Wet,20.0,18.0,80.0,15.0,Intermediate,305.0,0.78,1
+2023,9,Austrian Grand Prix,Red Bull Ring,Max Verstappen,Red Bull Racing,1,1.0,1:04.391,8.0,1.0,1.5,0.99,1.0,219.0,316.0,Honda RBPT,0.0,Dry,26.0,24.0,0.0,10.0,Soft-Medium,320.0,0.85,1
+2023,10,British Grand Prix,Silverstone Circuit,Max Verstappen,Red Bull Racing,1,1.0,1:26.720,8.0,2.0,2.5,0.97,1.0,244.0,341.0,Honda RBPT,0.0,Dry,22.0,20.0,0.0,12.0,Medium-Hard,310.0,0.8,1
+2023,11,Hungarian Grand Prix,Hungaroring,Max Verstappen,Red Bull Racing,2,2.0,1:16.612,8.0,1.5,2.0,0.96,1.0,269.0,366.0,Honda RBPT,0.0,Dry,30.0,28.0,0.0,10.0,Medium-Soft,300.0,0.78,1
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Max Verstappen,Red Bull Racing,6,1.0,1:46.168,8.0,1.0,1.5,0.98,1.0,294.0,391.0,Honda RBPT,0.0,Wet,18.0,16.0,90.0,20.0,Intermediate,320.0,0.85,1
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Max Verstappen,Red Bull Racing,1,1.0,1:10.567,8.0,1.0,1.5,0.99,1.0,319.0,416.0,Honda RBPT,0.0,Wet,19.0,17.0,85.0,18.0,Intermediate,310.0,0.8,1
+2023,14,Italian Grand Prix,Monza Circuit,Max Verstappen,Red Bull Racing,2,2.0,1:20.307,8.0,2.0,2.5,0.97,1.0,344.0,441.0,Honda RBPT,0.0,Dry,27.0,25.0,0.0,10.0,Soft-Medium,330.0,0.82,1
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Max Verstappen,Red Bull Racing,11,11.0,1:32.173,8.0,3.0,3.5,0.95,1.0,354.0,451.0,Honda RBPT,0.0,Wet,24.0,22.0,70.0,15.0,Intermediate,300.0,0.75,5
+2023,16,Japanese Grand Prix,Suzuka Circuit,Max Verstappen,Red Bull Racing,1,1.0,1:28.877,8.0,1.0,1.5,0.98,1.0,379.0,476.0,Honda RBPT,0.0,Dry,26.0,24.0,0.0,12.0,Medium-Hard,310.0,0.85,1
+2023,17,Qatar Grand Prix,Lusail International Circuit,Max Verstappen,Red Bull Racing,1,1.0,1:23.778,8.0,1.0,1.5,0.98,1.0,404.0,501.0,Honda RBPT,0.0,Dry,30.0,28.0,0.0,10.0,Soft-Medium,320.0,0.82,1
+2023,18,United States Grand Prix,Circuit of the Americas,Max Verstappen,Red Bull Racing,6,6.0,1:35.081,8.0,1.5,2.0,0.97,1.0,429.0,526.0,Honda RBPT,0.0,Dry,28.0,26.0,0.0,12.0,Medium-Hard,310.0,0.8,1
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing,3,3.0,1:17.263,8.0,1.0,1.5,0.98,1.0,454.0,551.0,Honda RBPT,0.0,Dry,25.0,23.0,0.0,10.0,Soft-Medium,320.0,0.85,1
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Max Verstappen,,,,,,,,,,,,,,,,,,,,,,
+2023,1,Bahrain Grand Prix,Bahrain International,Lando Norris,McLaren,11,11.0,1:31.381,5.0,6.0,5.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,28.0,24.0,0.0,10.0,Medium-Hard,310.0,0.8,17
+2023,2,Saudi Arabian Grand Prix,Jeddah Street Circuit,Lando Norris,McLaren,19,19.0,1:30.447,5.0,8.0,7.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,30.0,27.0,0.0,12.0,Soft-Medium,320.0,0.78,17
+2023,3,Australian Grand Prix,Albert Park Circuit,Lando Norris,McLaren,13,13.0,1:18.119,5.0,7.0,6.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,25.0,22.0,10.0,8.0,Medium-Soft,315.0,0.82,6
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Lando Norris,McLaren,10,10.0,1:41.281,5.0,9.0,8.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,29.0,26.0,0.0,10.0,Soft-Medium,325.0,0.8,9
+2023,5,Miami Grand Prix,Miami International,Lando Norris,McLaren,16,16.0,1:28.394,5.0,10.0,9.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,32.0,29.0,5.0,12.0,Medium-Soft,320.0,0.78,17
+2023,6,Monaco Grand Prix,Circuit de Monaco,Lando Norris,McLaren,10,10.0,1:12.254,5.0,6.0,5.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,24.0,21.0,0.0,8.0,Soft-Soft,290.0,0.75,9
+2023,7,Spanish Grand Prix,Circuit de Barcelona,Lando Norris,McLaren,3,3.0,1:12.792,5.0,5.0,4.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,28.0,25.0,0.0,10.0,Medium-Hard,310.0,0.82,17
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Lando Norris,McLaren,7,7.0,1:28.046,5.0,7.0,6.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Wet,20.0,18.0,80.0,15.0,Intermediate,305.0,0.78,13
+2023,9,Austrian Grand Prix,Red Bull Ring,Lando Norris,McLaren,3,3.0,1:04.658,5.0,4.0,3.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,26.0,24.0,0.0,10.0,Soft-Medium,320.0,0.85,4
+2023,10,British Grand Prix,Silverstone Circuit,Lando Norris,McLaren,2,2.0,1:26.961,5.0,3.0,2.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,22.0,20.0,0.0,12.0,Medium-Hard,310.0,0.8,2
+2023,11,Hungarian Grand Prix,Hungaroring,Lando Norris,McLaren,3,3.0,1:16.694,5.0,4.0,3.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,30.0,28.0,0.0,10.0,Medium-Soft,300.0,0.78,2
+2023,12,Belgian Grand Prix,Circuit de Spa,Lando Norris,McLaren,7,7.0,1:47.669,5.0,5.0,4.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Wet,18.0,16.0,90.0,20.0,Intermediate,320.0,0.85,7
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Lando Norris,McLaren,2,2.0,1:11.104,5.0,3.0,2.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Wet,19.0,17.0,85.0,18.0,Intermediate,310.0,0.8,7
+2023,14,Italian Grand Prix,Monza Circuit,Lando Norris,McLaren,9,9.0,1:20.979,5.0,6.0,5.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,27.0,25.0,0.0,10.0,Soft-Medium,330.0,0.82,8
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Lando Norris,McLaren,4,4.0,1:31.270,5.0,3.0,2.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Wet,24.0,22.0,70.0,15.0,Intermediate,300.0,0.75,2
+2023,16,Japanese Grand Prix,Suzuka Circuit,Lando Norris,McLaren,3,3.0,1:29.493,5.0,4.0,3.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,26.0,24.0,0.0,12.0,Medium-Hard,310.0,0.85,2
+2023,17,Qatar Grand Prix,Lusail International,Lando Norris,McLaren,10,10.0,1:24.685,5.0,5.0,4.5,0.95,6.0,205.0,280.0,Mercedes,0.0,Dry,,,,,Soft-Medium,,,
+2023,1,Bahrain Grand Prix,Bahrain International,Oscar Piastri,McLaren,18,18.0,1:32.101,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,28.0,24.0,0.0,10.0,Medium-Hard,310.0,0.8,DNF
+2023,2,Saudi Arabian Grand Prix,Jeddah Street Circuit,Oscar Piastri,McLaren,8,9.0,1:29.243,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,30.0,27.0,0.0,12.0,Soft-Medium,320.0,0.78,15
+2023,3,Australian Grand Prix,Albert Park Circuit,Oscar Piastri,McLaren,16,16.0,1:18.517,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,25.0,22.0,10.0,8.0,Medium-Soft,315.0,0.82,8
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Oscar Piastri,McLaren,10,10.0,1:41.611,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,29.0,26.0,0.0,10.0,Soft-Medium,325.0,0.8,11
+2023,5,Miami Grand Prix,Miami International,Oscar Piastri,McLaren,19,19.0,1:28.484,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,32.0,29.0,5.0,12.0,Medium-Soft,320.0,0.78,19
+2023,6,Monaco Grand Prix,Circuit de Monaco,Oscar Piastri,McLaren,11,11.0,1:12.395,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,24.0,21.0,0.0,8.0,Soft-Soft,290.0,0.75,10
+2023,7,Spanish Grand Prix,Circuit de Barcelona,Oscar Piastri,McLaren,9,10.0,1:13.682,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,28.0,25.0,0.0,10.0,Medium-Hard,310.0,0.82,13
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Oscar Piastri,McLaren,8,9.0,1:31.349,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Wet,20.0,18.0,80.0,15.0,Intermediate,305.0,0.78,11
+2023,9,Austrian Grand Prix,Red Bull Ring,Oscar Piastri,McLaren,13,13.0,1:05.605,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,26.0,24.0,0.0,10.0,Soft-Medium,320.0,0.85,16
+2023,10,British Grand Prix,Silverstone Circuit,Oscar Piastri,McLaren,3,3.0,1:27.092,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,22.0,20.0,0.0,12.0,Medium-Hard,310.0,0.8,4
+2023,11,Hungarian Grand Prix,Hungaroring,Oscar Piastri,McLaren,4,4.0,1:16.905,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,30.0,28.0,0.0,10.0,Medium-Soft,300.0,0.78,5
+2023,12,Belgian Grand Prix,Circuit de Spa,Oscar Piastri,McLaren,5,6.0,1:47.365,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Wet,18.0,16.0,90.0,20.0,Intermediate,320.0,0.85,DNF
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Oscar Piastri,McLaren,8,8.0,1:11.938,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Wet,19.0,17.0,85.0,18.0,Intermediate,310.0,0.8,9
+2023,14,Italian Grand Prix,Monza Circuit,Oscar Piastri,McLaren,7,7.0,1:20.785,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,27.0,25.0,0.0,10.0,Soft-Medium,330.0,0.82,12
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Oscar Piastri,McLaren,17,17.0,1:32.902,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Wet,24.0,22.0,70.0,15.0,Intermediate,300.0,0.75,7
+2023,16,Japanese Grand Prix,Suzuka Circuit,Oscar Piastri,McLaren,2,2.0,1:29.458,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,26.0,24.0,0.0,12.0,Medium-Hard,310.0,0.85,3
+2023,17,Qatar Grand Prix,Lusail International,Oscar Piastri,McLaren,6,6.0,1:24.540,0.0,,,0.95,9.0,97.0,280.0,Mercedes,0.0,Dry,30.0,28.0,0.0,10.0,Soft-Medium,320.0,0.82,2
+2023,18,United States Grand Prix,Circuit of the Americas,Oscar P,,,,,,,,,,,,,,,,,,,,,,
+2022,3,Australian Grand Prix,Albert Park Circuit,George Russell,Mercedes,6,6.0,1:18.933,3.0,5.0,3.5,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,25.0,22.0,10.0,8.0,Medium-Hard,315.0,0.82,3
+2022,4,Emilia Romagna Grand Prix,Imola Circuit,George Russell,Mercedes,11,11.0,1:20.757,3.0,6.0,4.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Wet,18.0,16.0,80.0,15.0,Intermediate,310.0,0.78,4
+2022,5,Miami Grand Prix,Miami International Autodrome,George Russell,Mercedes,12,12.0,1:30.173,3.0,7.0,5.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,32.0,29.0,5.0,12.0,Medium-Soft,320.0,0.8,5
+2022,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,George Russell,Mercedes,4,4.0,1:19.393,3.0,4.0,3.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,28.0,25.0,0.0,10.0,Soft-Medium,310.0,0.85,3
+2022,7,Monaco Grand Prix,Circuit de Monaco,George Russell,Mercedes,6,6.0,1:12.112,3.0,5.0,4.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Wet,20.0,18.0,90.0,20.0,Intermediate,290.0,0.75,5
+2022,8,Azerbaijan Grand Prix,Baku City Circuit,George Russell,Mercedes,5,5.0,1:42.712,3.0,3.0,2.5,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,29.0,26.0,0.0,10.0,Soft-Medium,325.0,0.8,3
+2022,9,Canadian Grand Prix,Circuit Gilles Villeneuve,George Russell,Mercedes,8,8.0,1:23.557,3.0,4.0,3.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Wet,20.0,18.0,80.0,15.0,Intermediate,305.0,0.78,4
+2022,10,British Grand Prix,Silverstone Circuit,George Russell,Mercedes,8,8.0,1:42.161,3.0,5.0,4.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,22.0,20.0,0.0,12.0,Medium-Hard,310.0,0.8,DNF
+2022,11,Austrian Grand Prix,Red Bull Ring,George Russell,Mercedes,4,4.0,1:05.431,3.0,4.0,3.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,26.0,24.0,0.0,10.0,Soft-Medium,320.0,0.85,4
+2022,12,French Grand Prix,Circuit Paul Ricard,George Russell,Mercedes,6,6.0,1:32.131,3.0,3.0,2.5,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,30.0,28.0,0.0,10.0,Medium-Hard,310.0,0.82,3
+2022,13,Hungarian Grand Prix,Hungaroring,George Russell,Mercedes,1,1.0,1:17.377,3.0,2.0,2.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,30.0,28.0,0.0,10.0,Medium-Soft,300.0,0.78,3
+2022,14,Belgian Grand Prix,Circuit de Spa-Francorchamps,George Russell,Mercedes,5,8.0,1:45.776,3.0,4.0,3.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Wet,18.0,16.0,90.0,20.0,Intermediate,320.0,0.85,4
+2022,15,Dutch Grand Prix,Circuit Zandvoort,George Russell,Mercedes,6,6.0,1:11.147,3.0,3.0,2.5,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,27.0,25.0,0.0,10.0,Soft-Medium,310.0,0.82,2
+2022,16,Italian Grand Prix,Monza Circuit,George Russell,Mercedes,2,6.0,1:21.542,3.0,3.0,2.5,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,27.0,25.0,0.0,10.0,Soft-Medium,330.0,0.82,3
+2022,17,Singapore Grand Prix,Marina Bay Street Circuit,George Russell,Mercedes,PIT,11.0,1:54.012,3.0,6.0,4.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Wet,24.0,22.0,70.0,15.0,Intermediate,300.0,0.75,14
+2022,18,Japanese Grand Prix,Suzuka Circuit,George Russell,Mercedes,8,8.0,1:30.389,3.0,5.0,4.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Wet,19.0,17.0,85.0,18.0,Intermediate,310.0,0.8,8
+2022,19,United States Grand Prix,Circuit of the Americas,George Russell,Mercedes,4,6.0,1:34.988,3.0,4.0,3.0,0.95,4.0,275.0,515.0,Mercedes,0.0,Dry,26.0,24.0,0.0,12.0,Medium-Hard,310.0,0.85,5
+2023,1,Imola FR Race 1,Imola Circuit,Andrea Kimi Antonelli,Prema Racing,1,1.0,1:37.456,2.0,1.0,1.5,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,28.0,22.0,10.0,5.0,Soft-Medium,280.0,0.85,1
+2023,2,Imola FR Race 2,Imola Circuit,Andrea Kimi Antonelli,Prema Racing,2,2.0,1:37.789,2.0,1.0,1.5,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,29.0,23.0,5.0,6.0,Soft-Medium,282.0,0.85,2
+2023,3,Barcelona FR Race 1,Circuit de Barcelona-Catalunya,Andrea Kimi Antonelli,Prema Racing,3,3.0,1:35.123,2.0,2.0,2.0,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,30.0,25.0,0.0,7.0,Medium-Hard,285.0,0.83,1
+2023,4,Barcelona FR Race 2,Circuit de Barcelona-Catalunya,Andrea Kimi Antonelli,Prema Racing,1,1.0,1:34.876,2.0,2.0,2.0,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,31.0,26.0,0.0,8.0,Medium-Hard,287.0,0.83,1
+2023,5,Spa-Francorchamps FR Race 1,Spa-Francorchamps Circuit,Andrea Kimi Antonelli,Prema Racing,2,2.0,2:05.432,2.0,1.5,1.8,0.98,1.0,300.0,500.0,Mercedes,0.0,Wet,18.0,16.0,80.0,10.0,Intermediate,290.0,0.8,2
+2023,6,Spa-Francorchamps FR Race 2,Spa-Francorchamps Circuit,Andrea Kimi Antonelli,Prema Racing,1,1.0,2:04.987,2.0,1.5,1.8,0.98,1.0,300.0,500.0,Mercedes,0.0,Wet,17.0,15.0,85.0,12.0,Intermediate,292.0,0.8,1
+2023,7,Monza FR Race 1,Monza Circuit,Andrea Kimi Antonelli,Prema Racing,3,3.0,1:46.321,2.0,2.0,2.2,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,27.0,24.0,0.0,9.0,Soft-Medium,300.0,0.85,1
+2023,8,Monza FR Race 2,Monza Circuit,Andrea Kimi Antonelli,Prema Racing,2,2.0,1:45.987,2.0,2.0,2.2,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,28.0,25.0,0.0,10.0,Soft-Medium,302.0,0.85,2
+2023,9,Mugello FR Race 1,Mugello Circuit,Andrea Kimi Antonelli,Prema Racing,1,1.0,1:39.654,2.0,1.0,1.5,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,26.0,22.0,0.0,6.0,Medium-Hard,280.0,0.83,1
+2023,10,Mugello FR Race 2,Mugello Circuit,Andrea Kimi Antonelli,Prema Racing,1,1.0,1:39.432,2.0,1.0,1.5,0.98,1.0,300.0,500.0,Mercedes,0.0,Dry,27.0,23.0,0.0,7.0,Medium-Hard,282.0,0.83,1
+2024,1,Bahrain F2 Sprint Race,Bahrain International Circuit,Andrea Kimi Antonelli,Prema Racing,8,8.0,1:42.123,3.0,5.0,4.0,0.95,6.0,113.0,200.0,Mercedes,0.0,Dry,30.0,28.0,0.0,12.0,Medium-Soft,310.0,0.8,3
+2024,2,Bahrain F2 Feature Race,Bahrain International Circuit,Andrea Kimi Antonelli,Prema Racing,6,6.0,1:41.876,3.0,5.0,4.0,0.95,6.0,113.0,200.0,Mercedes,0.0,Dry,31.0,29.0,0.0,13.0,Medium-Hard,312.0,0.8,2
+2024,3,Jeddah F2 Sprint Race,Jeddah Street Circuit,Andrea Kimi Antonelli,Prema Racing,10,10.0,1:44.321,3.0,6.0,5.0,0.95,6.0,113.0,200.0,Mercedes,0.0,Dry,32.0,30.0,0.0,14.0,Soft-Medium,320.0,0.78,4
+2024,4,Jeddah F2 Feature Race,Jeddah Street Circuit,Andrea Kimi Antonelli,Prema Racing,7,7.0,1:43.987,3.0,6.0,5.0,0.95,6.0,113.0,200.0,Mercedes,0.0,Dry,33.0,31.0,0.0,15.0,Soft-Medium,322.0,0.78,3
+2024,5,Melbourne F2 Sprint Race,Albert Park Circuit,Andrea Kimi Antonelli,Prema Racing,5,5.0,1:36.543,3.0,4.0,3.5,0.95,6.0,113.0,200.0,Mercedes,0.0,Dry,25.0,22.0,10.0,8.0,Medium-Soft,315.0,0.82,2
+2024,6,Melbourne F2 Feature Race,Albert Park Circuit,Andrea Kimi Antonelli,Prema Racing,3,3.0,1:36.123,3.0,4.0,3.5,0.95,6.0,113.0,200.0,Mercedes,0.0,Dry,26.0,23.0,,,Medium-Hard,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Charles Leclerc,Scuderia Ferrari,2,2.0,1:23.584,5.0,3.5,3.2,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,2
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Charles Leclerc,Scuderia Ferrari,1,1.0,1:32.726,5.0,1.0,2.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,28.0,22.0,0.0,8.0,Soft-Medium,310.0,0.88,2
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Charles Leclerc,Scuderia Ferrari,2,2.0,1:11.021,5.0,4.0,3.5,0.95,5.0,206.0,500.0,Ferrari,0.0,Wet,24.0,20.0,60.0,12.0,Medium-Hard,300.0,0.8,DNS
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Charles Leclerc,Scuderia Ferrari,1,1.0,1:17.166,5.0,2.5,2.8,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,26.0,21.0,0.0,9.0,Soft-Medium,315.0,0.86,3
+2023,18,United States Grand Prix,Circuit of the Americas,Charles Leclerc,Scuderia Ferrari,1,1.0,1:34.723,5.0,3.0,3.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,29.0,24.0,0.0,11.0,Medium-Hard,320.0,0.84,DSQ
+2023,17,Qatar Grand Prix,Lusail International Circuit,Charles Leclerc,Scuderia Ferrari,5,5.0,1:24.424,5.0,4.0,3.5,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,32.0,27.0,0.0,13.0,Medium-Hard,325.0,0.82,5
+2023,16,Japanese Grand Prix,Suzuka Circuit,Charles Leclerc,Scuderia Ferrari,4,4.0,1:29.542,5.0,3.0,3.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,27.0,23.0,0.0,10.0,Medium-Hard,310.0,0.85,4
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Charles Leclerc,Scuderia Ferrari,3,3.0,1:31.063,5.0,2.0,2.5,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,30.0,26.0,0.0,9.0,Soft-Medium,305.0,0.87,4
+2023,14,Italian Grand Prix,Monza Circuit,Charles Leclerc,Scuderia Ferrari,3,3.0,1:20.361,5.0,2.0,2.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,31.0,27.0,0.0,12.0,Soft-Medium,330.0,0.88,4
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Charles Leclerc,Scuderia Ferrari,9,9.0,1:12.665,5.0,3.5,3.5,0.95,5.0,206.0,500.0,Ferrari,0.0,Wet,22.0,19.0,70.0,14.0,Medium-Hard,295.0,0.8,DNF
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Charles Leclerc,Scuderia Ferrari,1,2.0,1:46.988,5.0,2.0,2.5,0.95,5.0,206.0,500.0,Ferrari,0.0,Wet,20.0,18.0,60.0,13.0,Medium-Hard,310.0,0.85,3
+2023,11,Hungarian Grand Prix,Hungaroring,Charles Leclerc,Scuderia Ferrari,6,6.0,1:16.992,5.0,3.0,3.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,7
+2023,10,British Grand Prix,Silverstone Circuit,Charles Leclerc,Scuderia Ferrari,4,4.0,1:27.136,5.0,3.0,3.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,9
+2023,9,Austrian Grand Prix,Red Bull Ring,Charles Leclerc,Scuderia Ferrari,2,2.0,1:04.439,5.0,2.0,2.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,2
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Charles Leclerc,Scuderia Ferrari,10,11.0,1:20.615,5.0,3.0,3.0,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,24.0,20.0,0.0,8.0,Medium-Hard,310.0,0.85,4
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Charles Leclerc,Scuderia Ferrari,PL,19.0,1:14.079,5.0,3.5,3.5,0.95,5.0,206.0,500.0,Ferrari,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,11
+2023,6,Monaco Grand Prix,Circuit de Monaco,Charles Leclerc,Scuderia Ferrari,6,3.0,1:11.471,5.0,2.0,,,,,,Ferrari,,,,,,,,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Lewis Hamilton,Mercedes,11,11.0,1:24.359,17.0,3.2,2.8,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,9
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Lewis Hamilton,Mercedes,10,11.0,1:33.837,17.0,2.5,2.7,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,28.0,22.0,0.0,8.0,Soft-Medium,310.0,0.88,7
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Lewis Hamilton,Mercedes,5,5.0,1:11.469,17.0,3.0,3.2,0.98,3.0,234.0,409.0,Mercedes,0.0,Wet,24.0,20.0,60.0,12.0,Medium-Hard,300.0,0.8,8
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Lewis Hamilton,Mercedes,6,6.0,1:17.454,17.0,2.5,2.8,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,26.0,21.0,0.0,9.0,Soft-Medium,315.0,0.86,2
+2023,18,United States Grand Prix,Circuit of the Americas,Lewis Hamilton,Mercedes,3,3.0,1:34.862,17.0,3.0,3.0,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,29.0,24.0,0.0,11.0,Medium-Hard,320.0,0.84,DSQ
+2023,17,Qatar Grand Prix,Lusail International Circuit,Lewis Hamilton,Mercedes,3,3.0,1:24.305,17.0,4.0,3.5,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,32.0,27.0,0.0,13.0,Medium-Hard,325.0,0.82,DNF
+2023,16,Japanese Grand Prix,Suzuka Circuit,Lewis Hamilton,Mercedes,7,7.0,1:29.908,17.0,3.0,3.0,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,27.0,23.0,0.0,10.0,Medium-Hard,310.0,0.85,5
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Lewis Hamilton,Mercedes,5,5.0,1:31.485,17.0,2.0,2.5,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,30.0,26.0,0.0,9.0,Soft-Medium,305.0,0.87,3
+2023,14,Italian Grand Prix,Monza Circuit,Lewis Hamilton,Mercedes,8,8.0,1:20.820,17.0,2.0,2.0,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,31.0,27.0,0.0,12.0,Soft-Medium,330.0,0.88,6
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Lewis Hamilton,Mercedes,13,13.0,1:20.151,17.0,3.5,3.5,0.98,3.0,234.0,409.0,Mercedes,0.0,Wet,22.0,19.0,70.0,14.0,Medium-Hard,295.0,0.8,6
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lewis Hamilton,Mercedes,3,4.0,1:47.087,17.0,2.0,2.5,0.98,3.0,234.0,409.0,Mercedes,0.0,Wet,20.0,18.0,60.0,13.0,Medium-Hard,310.0,0.85,4
+2023,11,Hungarian Grand Prix,Hungaroring,Lewis Hamilton,Mercedes,1,1.0,1:16.609,17.0,3.0,3.0,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,4
+2023,10,British Grand Prix,Silverstone Circuit,Lewis Hamilton,Mercedes,7,7.0,1:27.211,17.0,3.0,3.0,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,3
+2023,9,Austrian Grand Prix,Red Bull Ring,Lewis Hamilton,Mercedes,5,5.0,1:04.819,17.0,2.0,2.0,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,8
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Lewis Hamilton,Mercedes,3,4.0,1:27.627,17.0,3.0,3.0,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,24.0,20.0,0.0,8.0,Medium-Hard,310.0,0.85,3
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,4,5.0,1:12.818,17.0,3.5,3.5,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,2
+2023,6,Monaco Grand Prix,Circuit de Monaco,Lewis Hamilton,Mercedes,5,6.0,1:11.725,17.0,2.5,2.8,0.98,3.0,234.0,409.0,Mercedes,0.0,Dry,,,,,Soft-M,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Fernando Alonso,Aston Martin,7,7.0,1:24.084,20.0,6.5,5.8,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,7
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Fernando Alonso,Aston Martin,9,10.0,1:33.555,20.0,2.5,2.7,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,28.0,22.0,0.0,8.0,Soft-Medium,310.0,0.88,9
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Fernando Alonso,Aston Martin,4,4.0,1:11.387,20.0,3.0,3.2,0.95,4.0,206.0,280.0,Mercedes,0.0,Wet,24.0,20.0,60.0,12.0,Medium-Hard,300.0,0.8,3
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Fernando Alonso,Aston Martin,13,13.0,1:18.738,20.0,2.5,2.8,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,26.0,21.0,0.0,9.0,Soft-Medium,315.0,0.86,DNF
+2023,18,United States Grand Prix,Circuit of the Americas,Fernando Alonso,Aston Martin,17,17.0,1:36.268,20.0,3.0,3.0,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,29.0,24.0,0.0,11.0,Medium-Hard,320.0,0.84,DNF
+2023,17,Qatar Grand Prix,Lusail International Circuit,Fernando Alonso,Aston Martin,4,4.0,1:24.369,20.0,4.0,3.5,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,32.0,27.0,0.0,13.0,Medium-Hard,325.0,0.82,6
+2023,16,Japanese Grand Prix,Suzuka Circuit,Fernando Alonso,Aston Martin,10,10.0,1:30.560,20.0,3.0,3.0,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,27.0,23.0,0.0,10.0,Medium-Hard,310.0,0.85,8
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Fernando Alonso,Aston Martin,7,7.0,1:31.615,20.0,2.0,2.5,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,30.0,26.0,0.0,9.0,Soft-Medium,305.0,0.87,15
+2023,14,Italian Grand Prix,Monza Circuit,Fernando Alonso,Aston Martin,10,10.0,1:21.417,20.0,2.0,2.0,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,31.0,27.0,0.0,12.0,Soft-Medium,330.0,0.88,9
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Fernando Alonso,Aston Martin,5,5.0,1:11.506,20.0,3.5,3.5,0.95,4.0,206.0,280.0,Mercedes,0.0,Wet,22.0,19.0,70.0,14.0,Medium-Hard,295.0,0.8,2
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Fernando Alonso,Aston Martin,9,9.0,1:47.843,20.0,2.0,2.5,0.95,4.0,206.0,280.0,Mercedes,0.0,Wet,20.0,18.0,60.0,13.0,Medium-Hard,310.0,0.85,5
+2023,11,Hungarian Grand Prix,Hungaroring,Fernando Alonso,Aston Martin,8,8.0,1:17.035,20.0,3.0,3.0,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,9
+2023,10,British Grand Prix,Silverstone Circuit,Fernando Alonso,Aston Martin,9,9.0,1:27.659,20.0,3.0,3.0,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,7
+2023,9,Austrian Grand Prix,Red Bull Ring,Fernando Alonso,Aston Martin,7,7.0,1:04.911,20.0,2.0,2.0,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,5
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Fernando Alonso,Aston Martin,3,3.0,1:27.286,20.0,3.0,3.0,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,24.0,20.0,0.0,8.0,Medium-Hard,310.0,0.85,2
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Fernando Alonso,Aston Martin,9,9.0,1:13.507,20.0,3.5,3.5,0.95,4.0,206.0,280.0,Mercedes,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,7
+2023,6,Monaco Grand Prix,Circuit de Monaco,Fernando Alonso,Aston Martin,2,2.0,1:11.449,20.0,2.5,2.8,0.95,4.0,,,Mercedes,,,,,,,,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Lance Stroll,Aston Martin,13,13.0,1:24.422,7.0,9.0,8.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,10
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Lance Stroll,Aston Martin,19,14.0,1:34.199,7.0,15.0,14.0,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,28.0,22.0,0.0,8.0,Soft-Medium,310.0,0.88,5
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Lance Stroll,Aston Martin,3,3.0,1:11.344,7.0,5.0,4.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Wet,24.0,20.0,60.0,12.0,Medium-Hard,300.0,0.8,5
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Lance Stroll,Aston Martin,18,18.0,1:19.227,7.0,12.0,11.0,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,26.0,21.0,0.0,9.0,Soft-Medium,315.0,0.86,17
+2023,18,United States Grand Prix,Circuit of the Americas,Lance Stroll,Aston Martin,19,19.0,1:36.589,7.0,7.0,6.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,29.0,24.0,0.0,11.0,Medium-Hard,320.0,0.84,7
+2023,17,Qatar Grand Prix,Lusail International Circuit,Lance Stroll,Aston Martin,16,17.0,1:26.345,7.0,11.0,10.0,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,32.0,27.0,0.0,13.0,Medium-Hard,325.0,0.82,11
+2023,16,Japanese Grand Prix,Suzuka Circuit,Lance Stroll,Aston Martin,17,17.0,1:31.181,7.0,13.0,12.0,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,27.0,23.0,0.0,10.0,Medium-Hard,310.0,0.85,DNF
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Lance Stroll,Aston Martin,20,20.0,1:33.397,7.0,14.0,13.0,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,30.0,26.0,0.0,9.0,Soft-Medium,305.0,0.87,DNS
+2023,14,Italian Grand Prix,Monza Circuit,Lance Stroll,Aston Martin,20,20.0,1:22.860,7.0,16.0,15.0,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,31.0,27.0,0.0,12.0,Soft-Medium,330.0,0.88,16
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Lance Stroll,Aston Martin,11,11.0,1:20.121,7.0,11.0,10.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Wet,22.0,19.0,70.0,14.0,Medium-Hard,295.0,0.8,11
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Lance Stroll,Aston Martin,10,10.0,1:48.841,7.0,9.0,8.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Wet,20.0,18.0,60.0,13.0,Medium-Hard,310.0,0.85,9
+2023,11,Hungarian Grand Prix,Hungaroring,Lance Stroll,Aston Martin,14,14.0,1:18.144,7.0,10.0,9.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,10
+2023,10,British Grand Prix,Silverstone Circuit,Lance Stroll,Aston Martin,12,12.0,1:28.935,7.0,13.0,12.0,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,14
+2023,9,Austrian Grand Prix,Red Bull Ring,Lance Stroll,Aston Martin,6,6.0,1:04.893,7.0,8.0,7.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,9
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Lance Stroll,Aston Martin,16,13.0,1:21.484,7.0,9.0,8.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,24.0,20.0,0.0,8.0,Medium-Hard,310.0,0.85,9
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lance Stroll,Aston Martin,5,6.0,1:12.994,7.0,7.0,6.5,0.95,10.0,74.0,280.0,Mercedes,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,6
+2023,6,Monaco Grand Prix,Circuit de Monaco,Lance Stroll,Aston Martin,14,14.0,1:12.623,7.0,10.0,,,,,,Mercedes,,,,,,,,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Esteban Ocon,Alpine,12,12.0,1:24.391,7.0,9.0,8.5,0.95,12.0,58.0,120.0,Renault,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,12
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Esteban Ocon,Alpine,16,17.0,1:34.834,7.0,15.0,14.0,0.95,12.0,58.0,120.0,Renault,0.0,Dry,28.0,22.0,0.0,8.0,Soft-Medium,310.0,0.88,4
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Esteban Ocon,Alpine,14,12.0,1:10.562,7.0,5.0,4.5,0.95,12.0,58.0,120.0,Renault,0.0,Wet,24.0,20.0,60.0,12.0,Medium-Hard,300.0,0.8,10
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Esteban Ocon,Alpine,15,16.0,1:19.080,7.0,12.0,11.0,0.95,12.0,58.0,120.0,Renault,0.0,Dry,26.0,21.0,0.0,9.0,Soft-Medium,315.0,0.86,10
+2023,18,United States Grand Prix,Circuit of the Americas,Esteban Ocon,Alpine,8,8.0,1:35.154,7.0,7.0,6.5,0.95,12.0,58.0,120.0,Renault,0.0,Dry,29.0,24.0,0.0,11.0,Medium-Hard,320.0,0.84,DNF
+2023,17,Qatar Grand Prix,Lusail International Circuit,Esteban Ocon,Alpine,8,8.0,1:24.763,7.0,11.0,10.0,0.95,12.0,58.0,120.0,Renault,0.0,Dry,32.0,27.0,0.0,13.0,Medium-Hard,325.0,0.82,7
+2023,16,Japanese Grand Prix,Suzuka Circuit,Esteban Ocon,Alpine,14,14.0,1:30.586,7.0,13.0,12.0,0.95,12.0,58.0,120.0,Renault,0.0,Dry,27.0,23.0,0.0,10.0,Medium-Hard,310.0,0.85,9
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Esteban Ocon,Alpine,8,8.0,1:31.673,7.0,14.0,13.0,0.95,12.0,58.0,120.0,Renault,0.0,Dry,30.0,26.0,0.0,9.0,Soft-Medium,305.0,0.87,DNF
+2023,14,Italian Grand Prix,Monza Circuit,Esteban Ocon,Alpine,18,18.0,1:22.548,7.0,16.0,15.0,0.95,12.0,58.0,120.0,Renault,0.0,Dry,31.0,27.0,0.0,12.0,Soft-Medium,330.0,0.88,DNF
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Esteban Ocon,Alpine,16,17.0,1:22.110,7.0,11.0,10.5,0.95,12.0,58.0,120.0,Renault,0.0,Wet,22.0,19.0,70.0,14.0,Medium-Hard,295.0,0.8,10
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Esteban Ocon,Alpine,14,15.0,1:56.372,7.0,9.0,8.5,0.95,12.0,58.0,120.0,Renault,0.0,Wet,20.0,18.0,60.0,13.0,Medium-Hard,310.0,0.85,8
+2023,11,Hungarian Grand Prix,Hungaroring,Esteban Ocon,Alpine,12,12.0,1:17.841,7.0,10.0,9.5,0.95,12.0,58.0,120.0,Renault,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,DNF
+2023,10,British Grand Prix,Silverstone Circuit,Esteban Ocon,Alpine,13,13.0,1:28.956,7.0,13.0,12.0,0.95,12.0,58.0,120.0,Renault,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,DNF
+2023,9,Austrian Grand Prix,Red Bull Ring,Esteban Ocon,Alpine,12,12.0,1:05.453,7.0,8.0,7.5,0.95,12.0,58.0,120.0,Renault,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,14
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Esteban Ocon,Alpine,6,6.0,1:27.945,7.0,9.0,8.5,0.95,12.0,58.0,120.0,Renault,0.0,Dry,24.0,20.0,0.0,8.0,Medium-Hard,310.0,0.85,8
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Esteban Ocon,Alpine,6,7.0,1:13.083,7.0,7.0,6.5,0.95,12.0,58.0,120.0,Renault,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,8
+2023,6,Monaco Grand Prix,Circuit de Monaco,Esteban Ocon,Alpine,3,4.0,,,,,,,,,Renault,,,,,,,,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Pierre Gasly,Alpine,10,10.0,1:24.548,7.0,9.0,8.5,0.95,11.0,62.0,120.0,Renault,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,13
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Pierre Gasly,Alpine,4,5.0,1:33.239,7.0,15.0,14.0,0.95,11.0,62.0,120.0,Renault,0.0,Dry,28.0,22.0,0.0,8.0,Soft-Medium,310.0,0.88,11
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Pierre Gasly,Alpine,15,13.0,1:10.567,7.0,5.0,4.5,0.95,11.0,62.0,120.0,Renault,0.0,Wet,24.0,20.0,60.0,12.0,Medium-Hard,300.0,0.8,7
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Pierre Gasly,Alpine,11,11.0,1:18.521,7.0,12.0,11.0,0.95,11.0,62.0,120.0,Renault,0.0,Dry,26.0,21.0,0.0,9.0,Soft-Medium,315.0,0.86,11
+2023,18,United States Grand Prix,Circuit of the Americas,Pierre Gasly,Alpine,7,7.0,1:35.089,7.0,7.0,6.5,0.95,11.0,62.0,120.0,Renault,0.0,Dry,29.0,24.0,0.0,11.0,Medium-Hard,320.0,0.84,6
+2023,17,Qatar Grand Prix,Lusail International Circuit,Pierre Gasly,Alpine,7,7.0,1:24.553,7.0,11.0,10.0,0.95,11.0,62.0,120.0,Renault,0.0,Dry,32.0,27.0,0.0,13.0,Medium-Hard,325.0,0.82,12
+2023,16,Japanese Grand Prix,Suzuka Circuit,Pierre Gasly,Alpine,12,12.0,1:30.509,7.0,13.0,12.0,0.95,11.0,62.0,120.0,Renault,0.0,Dry,27.0,23.0,0.0,10.0,Medium-Hard,310.0,0.85,10
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Pierre Gasly,Alpine,12,12.0,1:32.274,7.0,14.0,13.0,0.95,11.0,62.0,120.0,Renault,0.0,Dry,30.0,26.0,0.0,9.0,Soft-Medium,305.0,0.87,6
+2023,14,Italian Grand Prix,Monza Circuit,Pierre Gasly,Alpine,17,17.0,1:22.545,7.0,16.0,15.0,0.95,11.0,62.0,120.0,Renault,0.0,Dry,31.0,27.0,0.0,12.0,Soft-Medium,330.0,0.88,15
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Pierre Gasly,Alpine,12,12.0,1:20.128,7.0,11.0,10.5,0.95,11.0,62.0,120.0,Renault,0.0,Wet,22.0,19.0,70.0,14.0,Medium-Hard,295.0,0.8,3
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Pierre Gasly,Alpine,12,12.0,1:53.671,7.0,9.0,8.5,0.95,11.0,62.0,120.0,Renault,0.0,Wet,20.0,18.0,60.0,13.0,Medium-Hard,310.0,0.85,11
+2023,11,Hungarian Grand Prix,Hungaroring,Pierre Gasly,Alpine,15,15.0,1:18.217,7.0,10.0,9.5,0.95,11.0,62.0,120.0,Renault,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,DNF
+2023,10,British Grand Prix,Silverstone Circuit,Pierre Gasly,Alpine,10,10.0,1:27.689,7.0,13.0,12.0,0.95,11.0,62.0,120.0,Renault,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,18
+2023,9,Austrian Grand Prix,Red Bull Ring,Pierre Gasly,Alpine,9,9.0,1:05.170,7.0,8.0,7.5,0.95,11.0,62.0,120.0,Renault,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,10
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Pierre Gasly,Alpine,15,17.0,1:22.886,7.0,9.0,8.5,0.95,11.0,62.0,120.0,Renault,0.0,Dry,24.0,20.0,0.0,8.0,Medium-Hard,310.0,0.85,12
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pierre Gasly,Alpine,10,4.0,1:12.816,7.0,7.0,6.5,0.95,11.0,62.0,120.0,Renault,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,10
+2023,6,Monaco Grand Prix,Circuit de Monaco,Pierre Gasly,Alpine,7,7.0,1:11.933,7.0,6.0,,,,,,Renault,,,,,,,,,,
+2023,13,Abu Dhabi Grand Prix,Yas Marina Circuit,Jack Doohan,Invicta Virtuosi,1,1.0,1:36.000,2.0,5.0,6.0,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,1
+2023,10,Spa-Francorchamps,Circuit de Spa-Francorchamps,Jack Doohan,Invicta Virtuosi,1,1.0,1:58.000,2.0,4.0,5.0,0.95,3.0,168.0,176.0,Mecachrome,0.0,Wet,20.0,18.0,80.0,12.0,Medium-Hard,310.0,0.8,1
+2023,9,Hungarian Grand Prix,Hungaroring,Jack Doohan,Invicta Virtuosi,1,1.0,1:28.000,2.0,3.0,4.0,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,1
+2023,8,Silverstone Grand Prix,Silverstone Circuit,Jack Doohan,Invicta Virtuosi,3,3.0,1:39.000,2.0,6.0,5.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,4
+2023,7,Red Bull Ring,Red Bull Ring,Jack Doohan,Invicta Virtuosi,4,4.0,1:14.000,2.0,5.0,4.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,4
+2023,6,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Jack Doohan,Invicta Virtuosi,6,6.0,1:30.000,2.0,7.0,6.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,6
+2023,5,Monaco Grand Prix,Circuit de Monaco,Jack Doohan,Invicta Virtuosi,7,7.0,1:22.000,2.0,8.0,7.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,22.0,20.0,0.0,8.0,Soft-Medium,300.0,0.8,6
+2023,4,Baku Grand Prix,Baku City Circuit,Jack Doohan,Invicta Virtuosi,8,8.0,1:45.000,2.0,9.0,8.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,26.0,21.0,0.0,9.0,Soft-Medium,315.0,0.85,15
+2023,3,Australian Grand Prix,Albert Park Circuit,Jack Doohan,Invicta Virtuosi,9,9.0,1:25.000,2.0,10.0,9.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,24.0,20.0,0.0,8.0,Medium-Hard,310.0,0.84,8
+2023,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Jack Doohan,Invicta Virtuosi,10,10.0,1:40.000,2.0,11.0,10.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,28.0,24.0,0.0,10.0,Soft-Medium,320.0,0.86,2
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Jack Doohan,Invicta Virtuosi,11,11.0,1:35.000,2.0,12.0,11.5,0.95,3.0,168.0,176.0,Mecachrome,0.0,Dry,30.0,25.0,0.0,11.0,Medium-Hard,325.0,0.85,16
+2022,14,Abu Dhabi Grand Prix,Yas Marina Circuit,Jack Doohan,Virtuosi Racing,2,2.0,1:36.500,1.0,6.0,5.5,0.95,6.0,128.0,150.0,Mecachrome,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,DNF
+2022,13,Monza Grand Prix,Monza Circuit,Jack Doohan,Virtuosi Racing,1,1.0,1:21.000,1.0,5.0,4.5,0.95,6.0,128.0,150.0,Mecachrome,0.0,Dry,31.0,27.0,0.0,12.0,Soft-Medium,330.0,0.88,1
+2022,12,Zandvoort Grand Prix,Circuit Zandvoort,Jack Doohan,Virtuosi Racing,3,3.0,1:22.500,1.0,7.0,6.5,0.95,6.0,128.0,150.0,Mecachrome,0.0,Dry,22.0,19.0,0.0,14.0,Medium-Hard,295.0,0.8,DNF
+2022,11,Spa-Francorchamps,Circuit de Spa-Francorchamps,Jack Doohan,Virtuosi Racing,1,1.0,1:58.500,1.0,4.0,5.0,0.95,6.0,128.0,150.0,Mecachrome,0.0,Wet,20.0,18.0,80.0,12.0,Medium-Hard,310.0,0.8,1
+2022,10,Hungarian Grand Prix,Hungaroring,Jack Doohan,Virtuosi Racing,1,1.0,1:28.500,1.0,3.0,4.0,0.95,6.0,128.0,,Mecachrome,,,,,,,,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Alexander Albon,Williams Racing,14,14.0,1:24.439,5.0,13.0,12.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,14
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Alexander Albon,Williams Racing,5,6.0,1:33.323,5.0,12.0,11.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,28.0,22.0,0.0,9.0,Soft-Medium,325.0,0.86,12
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Alexander Albon,Williams Racing,15,15.0,1:10.840,5.0,11.0,10.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,27.0,23.0,0.0,11.0,Medium-Hard,315.0,0.84,DNF
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Alexander Albon,Williams Racing,14,14.0,1:19.147,5.0,10.0,9.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,26.0,21.0,0.0,10.0,Medium-Hard,320.0,0.85,9
+2023,18,United States Grand Prix,Circuit of the Americas,Alexander Albon,Williams Racing,18,18.0,1:36.315,5.0,9.0,8.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,28.0,24.0,0.0,12.0,Medium-Hard,325.0,0.86,9
+2023,17,Qatar Grand Prix,Lusail International Circuit,Alexander Albon,Williams Racing,14,14.0,1:25.707,5.0,8.0,7.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,30.0,25.0,0.0,11.0,Soft-Medium,320.0,0.84,13
+2023,16,Japanese Grand Prix,Suzuka Circuit,Alexander Albon,Williams Racing,13,13.0,1:30.537,5.0,7.0,6.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,315.0,0.85,DNF
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Alexander Albon,Williams Racing,14,14.0,1:33.719,5.0,6.0,5.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,29.0,26.0,0.0,9.0,Soft-Medium,310.0,0.86,11
+2023,14,Italian Grand Prix,Monza Circuit,Alexander Albon,Williams Racing,6,6.0,1:20.760,5.0,5.0,4.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,31.0,27.0,0.0,12.0,Medium-Hard,330.0,0.88,7
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Alexander Albon,Williams Racing,4,4.0,1:11.419,5.0,4.0,3.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Wet,22.0,19.0,80.0,14.0,Medium-Hard,295.0,0.8,8
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Alexander Albon,Williams Racing,16,16.0,2:00.314,5.0,3.0,2.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Wet,20.0,18.0,80.0,13.0,Medium-Hard,310.0,0.8,14
+2023,11,Hungarian Grand Prix,Hungaroring,Alexander Albon,Williams Racing,16,16.0,1:18.917,5.0,2.0,1.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,11
+2023,10,British Grand Prix,Silverstone Circuit,Alexander Albon,Williams Racing,8,8.0,1:27.530,5.0,1.0,0.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,8
+2023,9,Austrian Grand Prix,Red Bull Ring,Alexander Albon,Williams Racing,11,11.0,1:05.823,5.0,2.0,1.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,11
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Alexander Albon,Williams Racing,10,10.0,1:18.725,5.0,3.0,2.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,7
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Alexander Albon,Williams Racing,18,18.0,1:14.063,5.0,4.0,3.5,0.95,13.0,27.0,28.0,Mercedes,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,16
+2023,6,Monaco Grand Prix,Circuit de Monaco,Alexander Albon,Williams Racing,13,13.0,1:12.527,5.0,5.0,4.5,,,,,Mercedes,,,,,,,,,,
+2023,22,Abu Dhabi Grand Prix,Yas Marina Circuit,Carlos Sainz Jr.,Ferrari,16,16.0,1:24.738,9.0,7.0,6.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,30.0,25.0,0.0,10.0,Medium-Hard,320.0,0.85,18
+2023,21,Las Vegas Grand Prix,Las Vegas Street Circuit,Carlos Sainz Jr.,Ferrari,12,2.0,1:32.770,9.0,6.5,6.0,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,28.0,22.0,0.0,9.0,Soft-Medium,325.0,0.86,6
+2023,20,São Paulo Grand Prix,Interlagos Circuit,Carlos Sainz Jr.,Ferrari,7,8.0,1:11.989,9.0,6.0,5.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,27.0,23.0,0.0,11.0,Medium-Hard,315.0,0.84,6
+2023,19,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Carlos Sainz Jr.,Ferrari,2,2.0,1:17.233,9.0,5.5,5.0,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,26.0,21.0,0.0,10.0,Medium-Hard,320.0,0.85,4
+2023,18,United States Grand Prix,Circuit of the Americas,Carlos Sainz Jr.,Ferrari,4,4.0,1:34.945,9.0,5.0,4.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,28.0,24.0,0.0,12.0,Medium-Hard,325.0,0.86,3
+2023,17,Qatar Grand Prix,Lusail International Circuit,Carlos Sainz Jr.,Ferrari,—,12.0,1:25.328,9.0,4.5,4.0,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,30.0,25.0,0.0,11.0,Soft-Medium,320.0,0.84,DNS
+2023,16,Japanese Grand Prix,Suzuka Circuit,Carlos Sainz Jr.,Ferrari,6,6.0,1:29.850,9.0,4.0,3.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,315.0,0.85,6
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Carlos Sainz Jr.,Ferrari,1,1.0,1:30.984,9.0,3.5,3.0,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,29.0,26.0,0.0,9.0,Soft-Medium,310.0,0.86,1
+2023,14,Italian Grand Prix,Monza Circuit,Carlos Sainz Jr.,Ferrari,1,1.0,1:20.294,9.0,3.0,2.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,31.0,27.0,0.0,12.0,Medium-Hard,330.0,0.88,3
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Carlos Sainz Jr.,Ferrari,6,6.0,1:11.754,9.0,2.5,2.0,0.95,7.0,200.0,406.0,Ferrari,0.0,Wet,22.0,19.0,80.0,14.0,Medium-Hard,295.0,0.8,5
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Carlos Sainz Jr.,Ferrari,4,5.0,1:47.152,9.0,2.0,1.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Wet,20.0,18.0,80.0,13.0,Medium-Hard,310.0,0.8,DNF
+2023,11,Hungarian Grand Prix,Hungaroring,Carlos Sainz Jr.,Ferrari,11,11.0,1:17.703,9.0,1.5,1.0,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,28.0,24.0,0.0,11.0,Medium-Hard,305.0,0.84,8
+2023,10,British Grand Prix,Silverstone Circuit,Carlos Sainz Jr.,Ferrari,5,5.0,1:27.148,9.0,1.0,0.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,25.0,21.0,0.0,9.0,Medium-Hard,315.0,0.86,10
+2023,9,Austrian Grand Prix,Red Bull Ring,Carlos Sainz Jr.,Ferrari,3,3.0,1:04.581,9.0,2.0,1.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,320.0,0.88,6
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Carlos Sainz Jr.,Ferrari,11,8.0,1:29.294,9.0,3.0,2.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,5
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Carlos Sainz Jr.,Ferrari,2,2.0,1:12.734,9.0,4.0,3.5,0.95,7.0,200.0,406.0,Ferrari,0.0,Dry,27.0,23.0,0.0,9.0,Medium-Hard,315.0,0.82,5
+2023,6,Monaco Grand Prix,Circuit de Monaco,Carlos Sainz Jr.,Ferrari,4,5.0,1:11,,,,,,,,Ferrari,,,,,,,,,,
+2023,1,Bahrain Grand Prix,Bahrain International Circuit,Nico Hülkenberg,Haas,10,10.0,1:31.573,10.0,13.0,12.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,30.0,24.0,0.0,10.0,Medium-Hard,320.0,0.85,15
+2023,2,Saudi Arabian Grand Prix,Jeddah Street Circuit,Nico Hülkenberg,Haas,11,11.0,1:29.984,10.0,12.0,11.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,28.0,22.0,0.0,9.0,Soft-Medium,325.0,0.86,12
+2023,3,Australian Grand Prix,Albert Park Circuit,Nico Hülkenberg,Haas,10,10.0,1:20.342,10.0,11.0,10.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,26.0,20.0,0.0,8.0,Medium-Hard,315.0,0.84,7
+2023,4,Azerbaijan Grand Prix,Baku City Circuit,Nico Hülkenberg,Haas,12,12.0,1:42.763,10.0,14.0,13.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,29.0,23.0,0.0,11.0,Medium-Hard,330.0,0.82,17
+2023,5,Miami Grand Prix,Miami International Autodrome,Nico Hülkenberg,Haas,13,13.0,1:29.876,10.0,13.0,12.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,31.0,26.0,0.0,12.0,Soft-Medium,325.0,0.83,15
+2023,6,Monaco Grand Prix,Circuit de Monaco,Nico Hülkenberg,Haas,14,14.0,1:13.456,10.0,15.0,14.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Wet,22.0,19.0,80.0,14.0,Medium-Hard,290.0,0.8,17
+2023,7,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Nico Hülkenberg,Haas,15,15.0,1:14.789,10.0,14.0,13.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,27.0,23.0,0.0,11.0,Medium-Hard,315.0,0.82,15
+2023,8,Canadian Grand Prix,Circuit Gilles Villeneuve,Nico Hülkenberg,Haas,16,16.0,1:21.234,10.0,13.0,12.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,25.0,21.0,0.0,10.0,Medium-Hard,320.0,0.84,15
+2023,9,Austrian Grand Prix,Red Bull Ring,Nico Hülkenberg,Haas,17,17.0,1:06.789,10.0,14.0,13.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,28.0,24.0,0.0,12.0,Medium-Hard,330.0,0.85,DNF
+2023,10,British Grand Prix,Silverstone Circuit,Nico Hülkenberg,Haas,18,18.0,1:28.345,10.0,13.0,12.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,26.0,22.0,0.0,11.0,Medium-Hard,325.0,0.83,13
+2023,11,Hungarian Grand Prix,Hungaroring,Nico Hülkenberg,Haas,19,19.0,1:18.456,10.0,14.0,13.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,27.0,23.0,0.0,10.0,Medium-Hard,310.0,0.82,14
+2023,12,Belgian Grand Prix,Circuit de Spa-Francorchamps,Nico Hülkenberg,Haas,20,20.0,1:47.890,10.0,15.0,14.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Wet,20.0,18.0,80.0,13.0,Medium-Hard,310.0,0.8,18
+2023,13,Dutch Grand Prix,Circuit Zandvoort,Nico Hülkenberg,Haas,21,21.0,1:12.345,10.0,14.0,13.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Wet,22.0,19.0,80.0,14.0,Medium-Hard,295.0,0.8,12
+2023,14,Italian Grand Prix,Monza Circuit,Nico Hülkenberg,Haas,22,22.0,1:21.456,10.0,15.0,14.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,31.0,27.0,0.0,12.0,Medium-Hard,330.0,0.88,17
+2023,15,Singapore Grand Prix,Marina Bay Street Circuit,Nico Hülkenberg,Haas,23,23.0,1:32.789,10.0,14.0,13.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,29.0,26.0,0.0,9.0,Soft-Medium,310.0,0.86,13
+2023,16,Japanese Grand Prix,Suzuka Circuit,Nico Hülkenberg,Haas,24,24.0,1:30.123,10.0,15.0,14.5,0.9,16.0,9.0,12.0,Ferrari,0.0,Dry,26.0,22.0,0.0,10.0,Medium-Hard,315.0,0.85,14
+2023,17,Qatar Grand Prix,Lusail International Circuit,Nico Hülkenberg,Haas,25,25.0,1:25.456,10.0,,,,,,,Ferrari,,,,,,,,,,
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lando Norris,McLaren,TBD,TBD,TBD,6.0,5.0,4.5,0.95,2.0,115.0,230.0,Mercedes,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,320 km/h,0.85,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Oscar Piastri,McLaren,TBD,TBD,TBD,2.0,6.0,5.5,0.95,1.0,131.0,230.0,Mercedes,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,319 km/h,0.84,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing,TBD,TBD,TBD,9.0,3.0,2.5,0.97,3.0,98.0,180.0,Honda RBPT,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,322 km/h,0.88,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,George Russell,Mercedes,TBD,TBD,TBD,6.0,6.0,5.5,0.94,4.0,85.0,160.0,Mercedes,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,318 km/h,0.86,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Charles Leclerc,Ferrari,TBD,TBD,TBD,7.0,4.0,3.5,0.96,5.0,72.0,140.0,Ferrari,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,321 km/h,0.87,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lewis Hamilton,Ferrari,TBD,TBD,TBD,18.0,3.5,3.0,0.96,6.0,65.0,140.0,Ferrari,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,320 km/h,0.86,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Carlos Sainz Jr.,Williams,TBD,TBD,TBD,10.0,5.5,5.0,0.93,7.0,58.0,110.0,Mercedes,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,319 km/h,0.85,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Fernando Alonso,Aston Martin,TBD,TBD,TBD,20.0,4.5,4.0,0.92,8.0,50.0,100.0,Mercedes,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,318 km/h,0.84,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Esteban Ocon,Haas,TBD,TBD,TBD,9.0,6.0,5.5,0.91,9.0,45.0,90.0,Ferrari,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,317 km/h,0.83,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Nico Hülkenberg,Sauber,TBD,TBD,TBD,14.0,7.0,6.5,0.9,10.0,40.0,80.0,Ferrari,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,316 km/h,0.82,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Franco iolapinto,Alpine,TBD,TBD,TBD,0.0,,7.0,0.89,,0.0,60.0,Renault,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,315 km/h,0.8,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Yuki Tsunoda,RB F1 Team,TBD,TBD,TBD,5.0,10.0,9.5,0.9,12.0,30.0,60.0,Honda RBPT,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,318 km/h,0.83,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Gabriel Bortoleto,Haas F1 Team,TBD,TBD,TBD,0.0,,10.0,0.88,,0.0,40.0,Ferrari,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,316 km/h,0.8,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Nico Hülkenberg,Sauber,TBD,TBD,TBD,14.0,7.0,6.5,0.9,10.0,40.0,80.0,Ferrari,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,316 km/h,0.82,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Alexander Albon,Williams,TBD,TBD,TBD,8.0,9.0,8.5,0.89,15.0,20.0,50.0,Mercedes,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,315 km/h,0.81,TBD
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Pierre Gasly,Alpine,TBD,TBD,TBD,9.0,8.5,8.0,0.9,13.0,25.0,55.0,Renault,0.0,Dry,24°C,20°C,10%,12 km/h,Soft-Medium,317 km/h,0.82,TBD
